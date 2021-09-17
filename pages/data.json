@@ -1,0 +1,53 @@
+{
+    "imagenFondoInicio": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+    "items": [
+        {
+            "id": 0,
+            "titulo": "Programando el Portfolio para CAS",
+            "descripcioncard": "He decidido aceptar el reto de programar mi propio portfolio.",
+            "c": true,
+            "a": false,
+            "s": false,
+            "blogImage": "https://drive.google.com/uc?id=1qqhcH23gTC0HCeiMz5v13lthiOdUGnxg",
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1QP_yRMvjARO9kelY1AkfBw37tsjEg0xB"},
+                {"link":"https://drive.google.com/uc?id=1l5vdLnPjm4uB4r6BVMwF4Su42GrpH1ld"},
+                {"link":"https://drive.google.com/uc?id=1BrSiEvQyE9NdBaCuVN9xxX95UbJCPJ3W"},
+                {"link":"https://drive.google.com/uc?id=1uySZNbnwefL29hwXezqGbGiEYlv_geLe"}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "descripcion": "He decidido aceptar el reto de programar mi propio portfolio. blablabla"
+        },
+        {
+            "id": 1,
+            "titulo": "Bla bla",
+            "descripcioncard": "bla bla bla",
+            "c": false,
+            "a": true,
+            "s": true,
+            "blogImage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel purus urna. Nunc lobortis iaculis neque aliquet aliquet. Maecenas nec pellentesque mi. Praesent aliquet felis et erat venenatis tempus. Etiam suscipit nulla ex, vitae eleifend erat tempus ac. Morbi in suscipit urna, sed consequat enim. Nam gravida neque posuere mollis mattis. Quisque ante metus, tristique at tempor vel, tristique in elit. Mauris metus quam, imperdiet ac rhoncus eu, fringilla et velit. Mauris eu odio facilisis, rhoncus nibh ac, viverra felis.Nulla euismod dui id dolor volutpat, at mattis lorem egestas. Mauris vitae turpis faucibus, scelerisque magna id, laoreet tortor. Nullam convallis, tellus ut condimentum pulvinar, nibh lectus commodo erat, vitae tempor odio nibh sit amet mi. Curabitur tristique congue laoreet. Vivamus faucibus, risus vitae scelerisque laoreet, enim felis pharetra justo, eget fermentum est risus vel mi. Quisque malesuada ipsum in scelerisque lobortis. Aliquam sagittis eleifend euismod. Phasellus eu sem arcu. Etiam ut augue dui. Sed consectetur, neque nec dapibus sollicitudin, nulla dolor scelerisque ipsum, sed tincidunt massa ligula at nunc. Nam nulla velit, ultrices et magna consequat, ultrices aliquet sem. Curabitur fermentum consequat velit non iaculis. Quisque pellentesque lobortis dolor, vel eleifend turpis pulvinar et. Suspendisse eget odio ut arcu."
+        },
+        {
+            "id": 2,
+            "titulo": "bla bla bla",
+            "descripcioncard": "bla bla bla bla",
+            "c": true,
+            "a": true,
+            "s": true,
+            "blogImage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"},
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"},
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel purus urna. Nunc lobortis iaculis neque aliquet aliquet. Maecenas nec pellentesque mi. Praesent aliquet felis et erat venenatis tempus. Etiam suscipit nulla ex, vitae eleifend erat tempus ac. Morbi in suscipit urna, sed consequat enim. Nam gravida neque posuere mollis mattis. Quisque ante metus, tristique at tempor vel, tristique in elit. Mauris metus quam, imperdiet ac rhoncus eu, fringilla et velit. Mauris eu odio facilisis, rhoncus nibh ac, viverra felis.Nulla euismod dui id dolor volutpat, at mattis lorem egestas. Mauris vitae turpis faucibus, scelerisque magna id, laoreet tortor. Nullam convallis, tellus ut condimentum pulvinar, nibh lectus commodo erat, vitae tempor odio nibh sit amet mi. Curabitur tristique congue laoreet. Vivamus faucibus, risus vitae scelerisque laoreet, enim felis pharetra justo, eget fermentum est risus vel mi. Quisque malesuada ipsum in scelerisque lobortis. Aliquam sagittis eleifend euismod. Phasellus eu sem arcu. Etiam ut augue dui. Sed consectetur, neque nec dapibus sollicitudin, nulla dolor scelerisque ipsum, sed tincidunt massa ligula at nunc. Nam nulla velit, ultrices et magna consequat, ultrices aliquet sem. Curabitur fermentum consequat velit non iaculis. Quisque pellentesque lobortis dolor, vel eleifend turpis pulvinar et. Suspendisse eget odio ut arcu."
+        }
+    ]
+    
+}
