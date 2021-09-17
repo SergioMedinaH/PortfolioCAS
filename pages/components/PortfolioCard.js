@@ -9,8 +9,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
   
   const laID = id
   const more = () => {
-    console.log(id)
-    console.log(data.items[id])
+    
     router.push({
         pathname:'/experiencePage',
         query: {

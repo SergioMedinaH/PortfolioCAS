@@ -25,12 +25,16 @@ function experiencePage() {
     
     const laID = parseInt(id);
     console.log (`la laid: ${ typeof laID}`)
-    const imagesList = data.items[laID].images.map(({link}) => {return < CustomImageLarge
+
+    if (typeof data.items[laID].images !== "undefined") {
+      const imagesList = data.items[laID].images.map(({link}) => {return < CustomImageLarge
     
         image={link}
         />
       
       })
+  }
+    
     return (
         <div className="min-h-screen">
         <Head>
