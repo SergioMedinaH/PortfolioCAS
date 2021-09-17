@@ -18,12 +18,12 @@ import NavBar from './components/NavBar';
 function experiencePage() {
     
     
-
+    const laID = 0;
     const router = useRouter();
     const {id} = router.query;
     console.log (`la id: ${id}`)
     
-    const laID = parseInt(id);
+    laID = parseInt(id);
     console.log (`la laid: ${ typeof laID}`)
 
     /*if (typeof data.items[laID].images !== "undefined") {
