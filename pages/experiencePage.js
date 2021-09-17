@@ -26,7 +26,7 @@ function experiencePage() {
     const laID = parseInt(id);
     console.log (`la laid: ${ typeof laID}`)
 
-    /*if (typeof data.items[laID].images !== "undefined") {
+    if (typeof data.items[laID].images !== "undefined") {
       const imagesList = data.items[laID].images.map(({link}) => {return < CustomImageLarge
     
         image={link}
@@ -34,7 +34,7 @@ function experiencePage() {
       
       })
       
-  }*/
+  }
     
     return (
         <div className="min-h-screen">
@@ -66,30 +66,38 @@ function experiencePage() {
             </div>
             
             </header>
-            <section  className=' p-10 flex flex-col'>
-            
-            <CASIcons c={data.items[laID].c} a={data.items[laID].a} s={data.items[laID].s} />
-            <div className='flex flex-col lg:flex-row'>
+
+            {typeof laID !== "undefined" ?
+              <section  className=' p-10 flex flex-col'>
               
-              <div className='w-full lg:w-1/2'>
-              <p className='text-black mx-5 mb-5 font-light mt-2 '>{data.items[laID].descripcion}</p>
+            
+              <CASIcons c={data.items[laID].c} a={data.items[laID].a} s={data.items[laID].s} />
+              <div className='flex flex-col lg:flex-row'>
+                
+                <div className='w-full lg:w-1/2'>
+                <p className='text-black mx-5 mb-5 font-light mt-2 '>{data.items[laID].descripcion}</p>
+                
+                </div>
+                <div className='flex items-center flex-col w-full lg:w-1/2'>
+                
+                <CustomImage image={data.items[laID].blogImage}/>
+              </div>
               
               </div>
-              <div className='flex items-center flex-col w-full lg:w-1/2'>
+              <div className='flex flex-col items-center'>
+              { /*imagesList*/}
+                  
+              </div>
               
-              <CustomImage image={data.items[laID].blogImage}/>
-            </div>
+              
+              
+              
+              </section>
             
-            </div>
-            <div className='flex flex-col items-center'>
-            { /*imagesList*/}
-                
-            </div>
+            :
+            <div></div>
+            }
             
-            
-            
-            
-            </section>
             
         </main>
 
