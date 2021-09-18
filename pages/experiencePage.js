@@ -18,7 +18,7 @@ import NavBar from './components/NavBar';
 function experiencePage() {
     
     
-    const laID = 0;
+    let laID = 0;
     const router = useRouter();
     const {id} = router.query;
     console.log (`la id: ${id}`)
