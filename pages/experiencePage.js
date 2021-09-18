@@ -23,7 +23,7 @@ function experiencePage() {
     const {id} = router.query;
     console.log (`la id: ${id}`)
     
-    laID = parseInt(id);
+    //laID = parseInt(id);
     console.log (`la laid: ${ typeof laID}`)
 
     /*if (typeof data.items[laID].images !== "undefined") {
