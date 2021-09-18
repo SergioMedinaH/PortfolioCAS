@@ -56,7 +56,11 @@ function experiencePage() {
                 <div className="absolute w-full text-center bg-myBlue h-72 bg-opacity-80">
                 <NavBar isPortfolio={false} isBlog={false}/>
                 <div className='flex items-center w-full flex-col mt-10'>
-                <h1 className='text-white text-6xl font-bold'>{data.items[laID].titulo}</h1>
+                {typeof laID !== "undefined" ?
+                <h1 className='text-white text-6xl font-bold'>{ data.items[laID].titulo}</h1>
+                :
+                <div></div>
+                }
                 <h2 className='mt-5 text-white text-lg font-light'>Sergio Medina</h2>
                 
                 
