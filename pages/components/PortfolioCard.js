@@ -18,7 +18,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
     });
 }
   return (
-      <div className='relative h-96 w-96 rounded-3xl mx-5 my-5 flex items-end'>
+      <div className='relative  sm:h-96 sm:w-96 h-64 w-64 rounded-3xl mx-5 my-5 flex items-end'>
             <Image 
             src={data.imagenFondoInicio}
             
@@ -26,9 +26,9 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
             objectFit="cover"
             className='rounded-3xl'
             />
-        <div className='absolute bg-myBlue bg-opacity-40 hover:bg-opacity-60 transition duration-200 ease-out h-96 w-96 rounded-3xl flex items-end'>
+        <div className='absolute bg-myBlue bg-opacity-40 hover:bg-opacity-60 transition duration-200 ease-out sm:h-96 sm:w-96 h-64 w-64 rounded-3xl flex items-end'>
         <div className='w-full mb-5'>
-          <h2 className='text-white font-bold text-3xl ml-6 mb-2'>{titulo}</h2>
+          <h2 className='text-white font-bold mr-2 text-3xl ml-6 mb-2'>{titulo}</h2>
           <p className='text-white mx-5 mb-5 font-light'>{descripcioncard}</p>
           <div className='flex items-center'>
             <CASIcons c={c} a={a} s={s}/>

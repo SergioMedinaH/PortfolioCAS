@@ -18,15 +18,46 @@ import NavBar from './components/NavBar';
 function experiencePage() {
     
     
-    let laID = 0;
+    var laID = 0;
+    var theID = 0;
+
+    console.log(`init laID: ${laID}`)
+    console.log(`init theID: ${theID}`)
+    console.log(`init laID type: ${typeof laID}`)
+    console.log(`init theID type: ${typeof theID}`)
+
     const router = useRouter();
     const {id} = router.query;
-    console.log (`la id: ${id}`)
     
-    //laID = parseInt(id);
-    console.log (`la laid: ${ typeof laID}`)
+    console.log(`router query id: ${ id}`)
+    console.log(`router query id type: ${typeof id}`)
 
-    /*if (typeof data.items[laID].images !== "undefined") {
+    if(typeof id === "undefined"){
+      theID = 0;
+    } else{
+      theID = parseInt(id);
+    }
+    
+    console.log (`theid typeof: ${typeof theID}`)
+
+    if(typeof theID === "number") {
+      laID = theID;
+    }
+
+    
+    console.log (`theid: ${ theID}`)
+
+    console.log (`laid typeof: ${laID}`)
+    console.log (`laid typeof: ${typeof laID}`)
+
+    console.log (data.items)
+    console.log (data.items[laID])
+    console.log (data.items[laID].images)
+    console.log(laID)
+    if(data.items[laID].images !== "undefined"){console.log (data.items[laID].images)}
+    
+
+    
       const imagesList = data.items[laID].images.map(({link}) => {return < CustomImageLarge
     
         image={link}
@@ -34,8 +65,10 @@ function experiencePage() {
       
       })
       
-  }*/
     
+    
+
+
     return (
         <div className="min-h-screen">
         <Head>
@@ -44,7 +77,7 @@ function experiencePage() {
         </Head>
 
         <main className="w-full">
-        
+            
             <header className=' w-full'>
             <div className='relative h-72 '>
                 <Image 
@@ -89,7 +122,12 @@ function experiencePage() {
               
               </div>
               <div className='flex flex-col items-center'>
-              { /*imagesList*/}
+              {
+                laID !== "undefined" ?
+              imagesList
+              :
+              <div></div>
+              }
                   
               </div>
               

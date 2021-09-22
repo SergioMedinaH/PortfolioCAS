@@ -25,7 +25,7 @@ function PortfolioPage() {
     return (
         <div className="min-h-screen">
         <Head>
-            <title>Porfolio CAS | Sergio Medina</title>
+            <title>Portfolio CAS | Sergio Medina</title>
             <link rel="icon" href="/favicon.ico" />
         </Head>
 
