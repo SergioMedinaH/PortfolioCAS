@@ -16,11 +16,11 @@
                 {"link":"https://drive.google.com/uc?id=1uySZNbnwefL29hwXezqGbGiEYlv_geLe"}
             ],
             "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
-            "descripcion": "He decidido aceptar el reto de programar mi propio portfolio. blablabla"
+            "descripcion": "He decidido programar yo mismo mi portfolio para CAS como un reto personal para CAS. Primero, diseñé un boceto de la página web usando la herramienta Figma. Luego, programé el portfolio usando JavaScript (leguaje de programación) y una herramienta llamada React desarrollada por Facebook y utilizada por Facebook, Instagram, Whatsapp, Tesla, Airbnb, Uber Eats, Discord, Skype, Pinterest, Walmart, Wix..."
         },
         {
             "id": 1,
-            "titulo": "Bla bla",
+            "titulo": "Practicando el Muscle Up",
             "descripcioncard": "bla bla bla",
             "c": false,
             "a": true,
@@ -34,7 +34,7 @@
         },
         {
             "id": 2,
-            "titulo": "bla bla bla",
+            "titulo": "Aprendiendo a tocar la guitarra",
             "descripcioncard": "bla bla bla bla",
             "c": true,
             "a": true,
