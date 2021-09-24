@@ -90,7 +90,7 @@ function experiencePage() {
                 <NavBar isPortfolio={false} isBlog={false}/>
                 <div className='flex items-center w-full flex-col mt-10'>
                 {typeof laID !== "undefined" ?
-                <h1 className='text-white text-6xl font-bold'>{ data.items[laID].titulo}</h1>
+                <h1 className='text-white text-4xl md:text-6xl font-bold'>{ data.items[laID].titulo}</h1>
                 :
                 <div></div>
                 }
@@ -112,7 +112,7 @@ function experiencePage() {
               <div className='flex flex-col lg:flex-row'>
                 
                 <div className='w-full lg:w-1/2'>
-                <p className='text-black mx-5 mb-5 font-light mt-2 '>{data.items[laID].descripcion}</p>
+                {data.items[laID].descripcion.split('\n').map(str => <p  className='text-black mx-5 mb-5 font-light mt-2 '>{str}</p>)}
                 
                 </div>
                 <div className='flex items-center flex-col w-full lg:w-1/2'>
