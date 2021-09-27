@@ -17,7 +17,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
   console.log(`init theID type: ${typeof theID}`)
 
   const router = useRouter();
-  const {id} = router.query;
+  
   
   console.log(`router query id: ${ id}`)
   console.log(`router query id type: ${typeof id}`)
