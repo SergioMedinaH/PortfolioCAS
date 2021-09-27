@@ -5,7 +5,7 @@ import {useRouter } from "next/dist/client/router";
 
 function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
     
-  const router = useRouter();
+  
   
   
   var laID = 0;
