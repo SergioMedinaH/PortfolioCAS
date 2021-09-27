@@ -7,7 +7,43 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
     
   const router = useRouter();
   
-  const laID = id
+  
+  var laID = 0;
+  var theID = 0;
+
+  console.log(`init laID: ${laID}`)
+  console.log(`init theID: ${theID}`)
+  console.log(`init laID type: ${typeof laID}`)
+  console.log(`init theID type: ${typeof theID}`)
+
+  const router = useRouter();
+  const {id} = router.query;
+  
+  console.log(`router query id: ${ id}`)
+  console.log(`router query id type: ${typeof id}`)
+
+  if(typeof id === "undefined"){
+    theID = 0;
+  } else{
+    theID = parseInt(id);
+  }
+  
+  console.log (`theid typeof: ${typeof theID}`)
+
+  if(typeof theID === "number") {
+    laID = theID;
+  }
+
+  
+  console.log (`theid: ${ theID}`)
+
+  console.log (`laid typeof: ${laID}`)
+  console.log (`laid typeof: ${typeof laID}`)
+
+  console.log (data.items)
+  console.log (data.items[laID])
+  console.log (data.items[laID].images)
+  console.log(laID)
   const more = () => {
     
     router.push({
@@ -19,6 +55,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
 }
   return (
       <div className='relative  sm:h-96 sm:w-96 h-64 w-64 rounded-3xl mx-5 my-5 flex items-end'>
+            
             <Image 
             src={data.items[laID].cardimage}
             
