@@ -81,7 +81,7 @@ function experiencePage() {
             <header className=' w-full'>
             <div className='relative h-72 '>
                 <Image 
-                src={data.imagenFondoInicio}
+                src={data.items[laID].blogImage}
                 
                 layout="fill"
                 objectFit="cover"
