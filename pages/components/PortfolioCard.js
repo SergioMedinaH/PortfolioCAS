@@ -58,7 +58,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
             
             <Image 
             src={data.items[laID].cardimage}
-            
+            priority
             layout="fill"
             objectFit="cover"
             className='rounded-3xl'

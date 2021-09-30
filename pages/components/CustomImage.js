@@ -7,7 +7,7 @@ function CustomImage({image}) {
             <Image 
             alt='image'
             src={image}
-            
+            priority
             layout='fill'
             objectFit='cover'
             className='rounded-3xl'

@@ -38,6 +38,7 @@ function PortfolioPage() {
                 
                 layout="fill"
                 objectFit="cover"
+                priority
                 />
                 <div className="absolute w-full text-center bg-myBlue h-96 bg-opacity-80">
                 <NavBar isPortfolio={true}/>
