@@ -51,6 +51,9 @@ function NavBar({isPortfolio}) {
                 <div className = 'flex items-center space-x-8 mr-10'>
                   <NavButton isInPortfolio={isPortfolio} isPortfolio={true}/>
                   <NavButton isInPortfolio={isPortfolio} isPortfolio={false} isBlog={!isPortfolio} />
+                  <div className= 'border rounded-full h-8 w-40 flex items-center justify-center cursor-pointer hover:scale-105 transition-transform duration-200 ease-out'>
+                    <h2 className=' text-white text-lg font-light'>No funciona bien</h2>
+                  </div>
                 </div>
               </div>
     )
