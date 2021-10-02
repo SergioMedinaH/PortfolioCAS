@@ -13,7 +13,7 @@ import NavBar from './components/NavBar';
 
 function blogPage() {
     console.log(data.items)
-    const cards = data.items.map(({id, titulo, descripcion, c,a,s, images, blogImage}) => {return <BlogCard 
+    const cards = data.items.map(({id, titulo, descripcion, c,a,s, images, blogImage, descripcioncorta}) => {return <BlogCard 
     
     id={id}
     titulo={titulo}
@@ -23,6 +23,7 @@ function blogPage() {
     s={s}
     images={images}
     blogImage = {blogImage}
+    descripcioncorta={descripcioncorta}
     />})
     
     return (

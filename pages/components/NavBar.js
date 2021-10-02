@@ -50,7 +50,7 @@ function NavBar({isPortfolio}) {
       <div className = 'h-20 flex justify-end'>
                 <div className = 'flex items-center space-x-8 mr-10'>
                   <NavButton isInPortfolio={isPortfolio} isPortfolio={true}/>
-                  <NavButton isInPortfolio={isPortfolio} isPortfolio={false}/>
+                  <NavButton isInPortfolio={isPortfolio} isPortfolio={false} isBlog={!isPortfolio} />
                 </div>
               </div>
     )

@@ -1,9 +1,23 @@
 {
     "imagenFondoInicio": "https://drive.google.com/uc?id=1pB-5jbqSDEvIuEeWTWXTV2HKDjmWrfgi",
     "items": [
-        
         {
             "id": 0,
+            "titulo": "Ruta en bicicleta",
+            "descripcioncard": "Hoy he recorrido 32,5 kilómetros en bici.",
+            "c": false,
+            "a": true,
+            "s": false,
+            "blogImage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "descripcioncorta": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos, pero en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad.",
+            "descripcion": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos, pero en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. \nDía 1: Hoy he ido con Gonzalo Ramírez a las barras de la Dehesa de Navalcarbón. Llevaba dos semanas sin hacer ejercicio ya que no he tenido tiempo los primeros días del IB. He perdido un poco de fuerza pero seguramente la recupere en menos de una semana. Hoy he conseguido hacer 3 Muscle Ups seguidos usando el impulso de las rodillas. Es un punto inicial más bajo de lo que me esperaba, y espero que en pocos días recupere la fuerza que tenía en verano. \nDía 2: Descanso. \nDía 3: ..."
+        },
+        {
+            "id": 1,
             "titulo": "Perfeccionando el Muscle Up",
             "descripcioncard": "Aprendiendo a hacer un Muscle Up LIMPIO en 30 días.",
             "c": false,
@@ -14,10 +28,11 @@
                 {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"}
             ],
             "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
+            "descripcioncorta": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos, pero en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad.",
             "descripcion": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos, pero en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. \nDía 1: Hoy he ido con Gonzalo Ramírez a las barras de la Dehesa de Navalcarbón. Llevaba dos semanas sin hacer ejercicio ya que no he tenido tiempo los primeros días del IB. He perdido un poco de fuerza pero seguramente la recupere en menos de una semana. Hoy he conseguido hacer 3 Muscle Ups seguidos usando el impulso de las rodillas. Es un punto inicial más bajo de lo que me esperaba, y espero que en pocos días recupere la fuerza que tenía en verano. \nDía 2: Descanso. \nDía 3: ..."
         },
         {
-            "id": 1,
+            "id": 2,
             "titulo": "Aprendiendo a tocar la guitarra",
             "descripcioncard": "Aprendiendo a tocar la guitarra en 30 días.",
             "c": true,
@@ -30,10 +45,11 @@
                 {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"}
             ],
             "cardimage": "https://drive.google.com/uc?id=1pB-5jbqSDEvIuEeWTWXTV2HKDjmWrfgi",
+            "descripcioncorta": "En Agosto, me compré una guitarra porque tenía muchas ganas de aprender a tocar un instrumeto musical. Llevo un mes aprendiendo a tocar la guitarra pero no le he dedicado mucho tiempo. Me he comprometido a practicar todos los días durante un mes para ver todo lo que puedo aprender y mejorar en estos 30 días.",
             "descripcion": "En Agosto, me compré una guitarra porque tenía muchas ganas de aprender a tocar un instrumeto musical. Llevo un mes aprendiendo a tocar la guitarra pero no le he dedicado mucho tiempo. Me he comprometido a practicar todos los días durante un mes para ver todo lo que puedo aprender y mejorar en estos 30 días. \nSemana 1: \n..."
         },
         {
-            "id": 2,
+            "id": 3,
             "titulo": "Programando mi portfolio para CAS",
             "descripcioncard": "Diseñando y programando mi portfolio para CAS.",
             "c": true,
@@ -47,7 +63,8 @@
                 {"link":"https://drive.google.com/uc?id=1uySZNbnwefL29hwXezqGbGiEYlv_geLe"}
             ],
             "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
-            "descripcion": "He decidido en vez de usar algún programa para diseñar páginas webs como Wix, Blogger, Google Sites o Tumblr, directamente programar yo mismo mi portfolio para CAS, como un reto personal. Me encanta la programación y me parece una buena idea para poner en práctica mis habilidades. \nPrimero, diseñé un boceto de la página web usando la herramienta Figma. Luego, programé el portfolio usando JavaScript (lenguaje de programación) y una herramienta llamada React desarrollada por Facebook y utilizada por Facebook, Instagram, Whatsapp, Tesla, Airbnb, Uber Eats, Discord, Skype, Pinterest, Walmart, Wix... \nEsperaba terminarlo en una semana pero finalmente tardé dos semanas y media, ya que tuve que resolver una gran cantidad de errores. \nCreo que todo el mundo debería aprender a programar ya que se desarrollan habilidades como la creatividad, la resolución de problemas y un pensamiento lógico, las cuales son muy importantes en el mundo actual."
+            "descripcioncorta": "He decidido en vez de usar algún programa para diseñar páginas webs como Wix, Blogger, Google Sites o Tumblr, directamente programar yo mismo mi portfolio para CAS, como un reto personal. Me encanta la programación y me parece una buena idea para poner en práctica mis habilidades.",
+            "descripcion": "He decidido en vez de usar algún programa para diseñar páginas webs como Wix, Blogger, Google Sites o Tumblr, directamente programar yo mismo mi portfolio para CAS, como un reto personal. Me encanta la programación y me parece una buena idea para poner en práctica mis habilidades. \nPrimero, diseñé un boceto de la página web usando la herramienta Figma. Luego, programé el portfolio usando JavaScript (lenguaje de programación) y una herramienta llamada React desarrollada por Facebook y utilizada por Facebook, Instagram, Whatsapp, Tesla, Airbnb, Uber Eats, Discord, Skype, Pinterest, Walmart, Wix... \nEsperaba terminarlo en una semana pero finalmente tardé dos semanas y media, ya que tuve que resolver una gran cantidad de errores. Aunque seguramente tenga que ir actualizando y solucionando  más errores durante todo el curso. \nCreo que todo el mundo debería aprender a programar ya que se desarrollan habilidades como la creatividad, la resolución de problemas y un pensamiento lógico, las cuales son muy importantes en el mundo actual."
         }
     ]
     

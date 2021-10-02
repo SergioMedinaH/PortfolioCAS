@@ -2,7 +2,7 @@ import data from '../data.json';
 import CASIcons from './CASIcons';
 import CustomImage from './CustomImage';
 import {useRouter } from "next/dist/client/router";
-function BlogCard({id, titulo, descripcion, c,a,s, images, blogImage}) {
+function BlogCard({id, titulo, descripcion, c,a,s, images, blogImage, descripcioncorta}) {
     
   /*const imagesList = images.map(({link}) => {return < CustomImage
     
@@ -30,7 +30,7 @@ function BlogCard({id, titulo, descripcion, c,a,s, images, blogImage}) {
             <div className='flex flex-col lg:flex-row'>
               
               <div className='w-full lg:w-1/2'>
-              <p className='text-black mx-5 mb-5 font-light mt-2 '>{descripcion}</p>
+              <p className='text-black mx-5 mb-5 font-light mt-2 '>{descripcioncorta}</p>
               <div 
               onClick={more}
               className='bg-myBlue h-10 w-24 rounded-full flex items-center justify-center cursor-pointer mr-5 ml-5 mb-10 hover:scale-105 transition-transform duration-200 ease-out'>
