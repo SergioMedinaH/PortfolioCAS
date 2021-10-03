@@ -3,7 +3,7 @@ import { Link } from 'react-scroll'
 import Image from "next/image";
 import data from './data.json';
 import PortfolioCard from './components/PortfolioCard';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 /*import {
   BrowserRouter as Router,
   Switch,

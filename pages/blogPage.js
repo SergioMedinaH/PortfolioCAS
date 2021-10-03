@@ -10,7 +10,7 @@ import BlogCard from './components/BlogCard';
   Link as RouterLink
 } from "react-router-dom";*/
 import NavBar from './components/NavBar';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 function blogPage() {
     console.log(data.items)

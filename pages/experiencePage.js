@@ -7,7 +7,7 @@ import { useRouter } from "next/dist/client/router";
 import CASIcons from './components/CASIcons';
 import CustomImageLarge from './components/CustomImageLarge';
 import CustomImage from './components/CustomImage';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 /*import {
   BrowserRouter as Router,
   Switch,
