@@ -57,6 +57,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
       <div className='relative  sm:h-96 sm:w-96 h-64 w-64 rounded-3xl mx-5 my-5 flex items-end'>
             
             <Image 
+            alt={data.textoImagenAlternativa}
             src={data.items[laID].cardimage}
             priority
             layout="fill"

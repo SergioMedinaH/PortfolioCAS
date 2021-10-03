@@ -5,7 +5,7 @@ function CustomImage({image}) {
     return (
         <div className=' relative h-40 sm:h-96 w-5/6 mb-20 rounded-3xl'>
             <Image 
-            alt='image'
+            alt={data.textoImagenAlternativa}
             src={image}
             priority
             layout='fill'

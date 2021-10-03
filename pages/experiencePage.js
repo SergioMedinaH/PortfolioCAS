@@ -82,6 +82,7 @@ function experiencePage() {
             <div className='relative h-72 '>
                 <Image 
                 src={data.items[laID].blogImage}
+                alt={data.textoImagenAlternativa}
                 priority
                 layout="fill"
                 objectFit="cover"

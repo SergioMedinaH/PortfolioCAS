@@ -1,5 +1,6 @@
 {
     "imagenFondoInicio": "https://drive.google.com/uc?id=1yaNIyXe2C17AUwRoRprK4r6TtkPqVcuO",
+    "textoImagenAlternativa":"Error al cargar la imagen, conéctese a otra red o abra el portfolio secundario.",
     "items": [
         {
             "id": 0,
@@ -96,7 +97,6 @@
             "blogImage": "https://drive.google.com/uc?id=1qqhcH23gTC0HCeiMz5v13lthiOdUGnxg",
             "images": [
                 {"link":"https://drive.google.com/uc?id=1QP_yRMvjARO9kelY1AkfBw37tsjEg0xB"},
-                {"link":"https://drive.google.com/uc?id=1U0cjxPdGhmfGe0NzwAyzLn0PlPLSPCkt"},
                 {"link":"https://drive.google.com/uc?id=1l5vdLnPjm4uB4r6BVMwF4Su42GrpH1ld"},
                 {"link":"https://drive.google.com/uc?id=1BrSiEvQyE9NdBaCuVN9xxX95UbJCPJ3W"},
                 {"link":"https://drive.google.com/uc?id=1uySZNbnwefL29hwXezqGbGiEYlv_geLe"}

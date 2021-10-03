@@ -35,7 +35,7 @@ function PortfolioPage() {
             <div className='relative h-96 '>
                 <Image 
                 src={data.imagenFondoInicio}
-                
+                alt={data.textoImagenAlternativa}
                 layout="fill"
                 objectFit="cover"
                 priority

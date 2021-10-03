@@ -39,7 +39,7 @@ function blogPage() {
             <div className='relative h-72 '>
                 <Image 
                 src={data.imagenFondoInicio}
-                
+                alt={data.textoImagenAlternativa}
                 layout="fill"
                 objectFit="cover"
                 />
