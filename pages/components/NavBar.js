@@ -48,7 +48,7 @@ function NavButton({ isInPortfolio, isPortfolio, isBlog}){
 function NavBar({isPortfolio}) {
     return(
       <div className = 'h-20 flex justify-end'>
-                <div className = 'flex items-center space-x-8 mr-10'>
+                <div className = 'flex items-center space-x-5 sm:space-x-8 mr-5 ml-1 sm:mr-10'>
                   <NavButton isInPortfolio={isPortfolio} isPortfolio={true}/>
                   <NavButton isInPortfolio={isPortfolio} isPortfolio={false} isBlog={!isPortfolio} />
                   <a href="https://sergiomedinaher.editorx.io/cas-portfolio">
