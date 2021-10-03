@@ -10,6 +10,7 @@ import BlogCard from './components/BlogCard';
   Link as RouterLink
 } from "react-router-dom";*/
 import NavBar from './components/NavBar';
+import Footer from './components/footer';
 
 function blogPage() {
     console.log(data.items)
@@ -61,7 +62,7 @@ function blogPage() {
             
             
             </section>
-            
+            <Footer/>
         </main>
 
         

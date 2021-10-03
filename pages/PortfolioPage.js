@@ -3,6 +3,7 @@ import { Link } from 'react-scroll'
 import Image from "next/image";
 import data from './data.json';
 import PortfolioCard from './components/PortfolioCard';
+import Footer from './components/footer';
 /*import {
   BrowserRouter as Router,
   Switch,
@@ -62,6 +63,7 @@ function PortfolioPage() {
             
             
             </section>
+            <Footer/>
             
         </main>
 

@@ -1,6 +1,6 @@
 {
     "imagenFondoInicio": "https://drive.google.com/uc?id=1yaNIyXe2C17AUwRoRprK4r6TtkPqVcuO",
-    "textoImagenAlternativa":"Error al cargar la imagen, conéctese a otra red o abra el portfolio secundario.",
+    "textoImagenAlternativa":"Error al cargar la imagen, conéctese a otra red o abra el portfolio secundario (Botón arriba a la derecha).",
     "items": [
         {
             "id": 0,

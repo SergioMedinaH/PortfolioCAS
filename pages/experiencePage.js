@@ -7,6 +7,7 @@ import { useRouter } from "next/dist/client/router";
 import CASIcons from './components/CASIcons';
 import CustomImageLarge from './components/CustomImageLarge';
 import CustomImage from './components/CustomImage';
+import Footer from './components/footer';
 /*import {
   BrowserRouter as Router,
   Switch,
@@ -141,7 +142,7 @@ function experiencePage() {
             <div></div>
             }
             
-            
+            <Footer/>
         </main>
 
         
