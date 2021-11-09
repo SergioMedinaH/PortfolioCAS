@@ -4,9 +4,9 @@ import Image from "next/image";
 function CustomImageLarge({image, square}) {
     return (
         
-        <div className='relative h-32 sm:h-128 w-4/5 sm:w-1/2 '>
+        <div className='relative h-40 sm:h-128 w-3/4 sm:w-1/2  mb-20 '>
             {square ?
-            <div className=' relative h-80 w-80 mb-20 rounded-3xl'>
+            <div className=' relative h-80 w-80 rounded-3xl'>
                 <Image 
                 alt={data.textoImagenAlternativa}
                 src={image}
@@ -15,19 +15,20 @@ function CustomImageLarge({image, square}) {
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'
+                
              />
             </div>
             :
-            <div className='mb-20 rounded-3xl'>
+            <div className='rounded-3xl'>
                 <Image 
                 alt={data.textoImagenAlternativa}
                 src={image}
-                
                 loading='eager'
                 priority={true}
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'
+                
             />
             </div>
         }

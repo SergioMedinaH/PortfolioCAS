@@ -14,6 +14,7 @@ function CustomImage({image, square}) {
             layout='fill'
             objectFit='cover'
             className='rounded-3xl'
+            
             />
         </div> : <div className=' relative h-40 sm:h-96 w-5/6 mb-20 rounded-3xl'>
             <Image 
@@ -24,6 +25,7 @@ function CustomImage({image, square}) {
             layout='fill'
             objectFit='cover'
             className='rounded-3xl'
+            
             />
         </div>}
 

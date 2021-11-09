@@ -65,6 +65,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
             layout="fill"
             objectFit="cover"
             className='rounded-3xl'
+            
             />
         <div className='absolute bg-myBlue bg-opacity-50 hover:bg-opacity-70 transition duration-200 ease-out sm:h-96 sm:w-96 h-64 w-64 rounded-3xl flex items-end'>
         <div className='w-full mb-5'>
