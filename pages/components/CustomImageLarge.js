@@ -10,8 +10,8 @@ function CustomImageLarge({image, square}) {
                 <Image 
                 alt={data.textoImagenAlternativa}
                 src={image}
-                onLoad={image}
-                priority
+                loading={eager}
+                priority={true}
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'
@@ -22,8 +22,9 @@ function CustomImageLarge({image, square}) {
                 <Image 
                 alt={data.textoImagenAlternativa}
                 src={image}
-                onLoad={image}
-                priority
+                
+                loading={eager}
+                priority={true}
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'

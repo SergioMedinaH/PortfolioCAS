@@ -59,8 +59,9 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
             <Image 
             alt={data.textoImagenAlternativa}
             src={data.items[laID].cardimage}
-            onLoad={data.items[laID].cardimage}
-            priority
+            
+            loading={eager}
+            priority={true}
             layout="fill"
             objectFit="cover"
             className='rounded-3xl'
