@@ -60,7 +60,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
             alt={data.textoImagenAlternativa}
             src={data.items[laID].cardimage}
             
-            loading={eager}
+            loading='eager'
             priority={true}
             layout="fill"
             objectFit="cover"
