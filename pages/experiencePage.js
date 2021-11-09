@@ -59,9 +59,10 @@ function experiencePage() {
     
 
     
-      const imagesList = data.items[laID].images.map(({link}) => {return < CustomImageLarge
+      const imagesList = data.items[laID].images.map(({link, square}) => {return < CustomImageLarge
     
         image={link}
+        square={square}
         />
       
       })
@@ -119,7 +120,7 @@ function experiencePage() {
                 </div>
                 <div className='flex items-center flex-col w-full lg:w-1/2'>
                 
-                <CustomImage image={data.items[laID].blogImage}/>
+                <CustomImage image={data.items[laID].blogImage} square={data.items[laID].square}/>
               </div>
               
               </div>

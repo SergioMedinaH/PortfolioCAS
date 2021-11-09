@@ -9,9 +9,9 @@
             "c": true,
             "a": false,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td",
+            "blogImage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV"}
+                {"link":"https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3",
             "descripcioncorta": "Descripción corta",
@@ -24,9 +24,9 @@
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV",
+            "blogImage": "https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV"}
+                {"link":"https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1_wR5a7UP3XCBQdPucjSF-Q2-IAcCuK0_",
             "descripcioncorta": "Descripción corta",
@@ -39,13 +39,18 @@
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td",
+            "blogImage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV"}
+                {"link":"https://drive.google.com/uc?id=1Bb3wk6hJO3Fh0hJeI5Wx6G8DXkNIZBOV", "square": true},
+                {"link":"https://drive.google.com/uc?id=1Si16t0jsT4ITYITzUmUpDObBkGnwvbW3", "square": true},
+                {"link":"https://drive.google.com/uc?id=1pXwDkBdcP-tg3oGP8Z_x3QuQWul5a5nk", "square": true},
+                {"link":"https://drive.google.com/uc?id=1LrUh4bb-ljYH-DsbHIfcqqRNxPEvNiXs", "square": true},
+                {"link":"https://drive.google.com/uc?id=1lxSvglWO_vz4k6qONJ24Hqv_Gr4PGu5G", "square": true}
             ],
+            
             "cardimage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td",
             "descripcioncorta": "Descripción corta",
-            "descripcion": "Descripción"
+            "descripcion": "Junto a Alex Yu, Pablo Luque y Darío Llopart hemos creado una cuenta sobre divulgación científica en Instagram. \nLa cultura científica en el mundo es muy baja y especialmente en España, por lo que hemos decidido crear la cuenta en español, aunque tengamos una menor audiencia. \nPublicamos dos veces por semana datos curiosos, paradojas, y conceptos que te explotan la cabeza explicados de forma sencilla para todo el público. Nuestro objetivo es explicar conceptos científicos de una forma breve, creativa y entretenida, generando un interés al lector y motivándolos a aprender más sobre el tema y a interesarse por la ciencia. \nEste proyecto a largo plazo para CAS va a ser un gran reto para nosotros, ya que tenemos que publicar rutinariamente pequeños bloques de información que sean interesantes para el lector, en un formato propio que sea entretenido y ameno. Buscar temas curiosos y atractivos, y a la vez explicarlo de forma sencilla y amena es una tarea mucho más difícil de lo que pensábamos. \nCon este proyecto nos hemos dado cuenta de la importancia que tiene la divulgación en el mundo, pero también lo difícil que es hacerlo, ya que es necesaria una gran creatividad y mucho tiempo para aprender e informarse sobre el tema, y luego poder compactar una gran cantidad de información en una pequeña publicación. \nAdemás, al empezar a investigar hemos aprendido sobre una gran cantidad de temas muy interesantes que antes no conocíamos. \nCuenta: @atomic_facts_ \nLink: \nhttps://www.instagram.com/atomic_facts_/"
         },
         {
             "id": 3,
@@ -54,13 +59,13 @@
             "c": false,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1m9yTbXSN2wkLjlBDoiWAOYMcT7Y13blt",
+            "blogImage": "https://drive.google.com/uc?id=1m9yTbXSN2wkLjlBDoiWAOYMcT7Y13blt", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1m1GsKAelX5sipLuFXTQiURFPOvgPToer"},
-                {"link":"https://drive.google.com/uc?id=1mAQP4fLGFXe28qZDxt1G_TSFjyZAqZVz"},
-                {"link":"https://drive.google.com/uc?id=1mNZ9NgJ0vnki5W0PBFRhPyBJlANcHLYq"},
-                {"link":"https://drive.google.com/uc?id=1mRSo5l16D5Qmt6AI4UpRpTuvDT3pYJQD"},
-                {"link":"https://drive.google.com/uc?id=1mSK-E3T_dZbwVjbDSKQjQuJnz_dhDgqk"}
+                {"link":"https://drive.google.com/uc?id=1m1GsKAelX5sipLuFXTQiURFPOvgPToer", "square": false},
+                {"link":"https://drive.google.com/uc?id=1mAQP4fLGFXe28qZDxt1G_TSFjyZAqZVz", "square": false},
+                {"link":"https://drive.google.com/uc?id=1mNZ9NgJ0vnki5W0PBFRhPyBJlANcHLYq", "square": false},
+                {"link":"https://drive.google.com/uc?id=1mRSo5l16D5Qmt6AI4UpRpTuvDT3pYJQD", "square": false},
+                {"link":"https://drive.google.com/uc?id=1mSK-E3T_dZbwVjbDSKQjQuJnz_dhDgqk", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1m9SNXUjMF_hSrDQvWapO3jeeDaaG56E4",
             "descripcioncorta": "Descripción corta",
@@ -73,17 +78,17 @@
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1AVtL_qU1_K2C5Fd27qR4gKp4O_67ILly",
+            "blogImage": "https://drive.google.com/uc?id=1AVtL_qU1_K2C5Fd27qR4gKp4O_67ILly", "square": false,
             "images": [
                 
-                {"link":"https://drive.google.com/uc?id=1zEPd26Kl-RxEsSYydzGZrzUeq-s4KcXY"},
-                {"link":"https://drive.google.com/uc?id=1yaNIyXe2C17AUwRoRprK4r6TtkPqVcuO"},
-                {"link":"https://drive.google.com/uc?id=1l2esgZcKLllqa1JwrZmDig1cFNUZLoVa"},
-                {"link":"https://drive.google.com/uc?id=1bvsACvRo3SO60toQANzAJF2A_7OgdngM"},
-                {"link":"https://drive.google.com/uc?id=1NDIWFzgrQ4gSMF4V_wVQ0VDdoVKFuPui"},
-                {"link":"https://drive.google.com/uc?id=1KmM1kb25XgrJFlJ5wxVED4p3SzWC0ryI"},
-                {"link":"https://drive.google.com/uc?id=1n135f0EWHWvqeC31vrTonOI8UTupRSkZ"},
-                {"link":"https://drive.google.com/uc?id=1oUx_mZClSfzLlXAEJ-w8MsgoX4i7n1ec"}
+                {"link":"https://drive.google.com/uc?id=1zEPd26Kl-RxEsSYydzGZrzUeq-s4KcXY", "square": false},
+                {"link":"https://drive.google.com/uc?id=1yaNIyXe2C17AUwRoRprK4r6TtkPqVcuO", "square": false},
+                {"link":"https://drive.google.com/uc?id=1l2esgZcKLllqa1JwrZmDig1cFNUZLoVa", "square": false},
+                {"link":"https://drive.google.com/uc?id=1bvsACvRo3SO60toQANzAJF2A_7OgdngM", "square": false},
+                {"link":"https://drive.google.com/uc?id=1NDIWFzgrQ4gSMF4V_wVQ0VDdoVKFuPui", "square": false},
+                {"link":"https://drive.google.com/uc?id=1KmM1kb25XgrJFlJ5wxVED4p3SzWC0ryI", "square": false},
+                {"link":"https://drive.google.com/uc?id=1n135f0EWHWvqeC31vrTonOI8UTupRSkZ", "square": false},
+                {"link":"https://drive.google.com/uc?id=1oUx_mZClSfzLlXAEJ-w8MsgoX4i7n1ec", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1zEPd26Kl-RxEsSYydzGZrzUeq-s4KcXY",
             "descripcioncorta": "Desde muy pequeño me ha encantado montar en bici, pero por falta de tiempo, llevaba varios meses sin hacerlo. Por lo que, junto a mi compañero Alex Yu, nos hemos propuesto hacer una ruta en bici por Las Rozas de Madrid, para disfrutar del ejercicio, la naturaleza y desconectar totalmente de los estudios. \nHemos recorrido en total unos 32,5 kilómetros aproximadamente en dos horas y media, recorriendo gran parte de las Rozas y descubriendo nuevos caminos y zonas que no conocíamos.",
@@ -96,13 +101,14 @@
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1axiyjBt-PKbf6Xt_7vnNIw4p_Pee7z2f",
+            "blogImage": "https://drive.google.com/uc?id=1axiyjBt-PKbf6Xt_7vnNIw4p_Pee7z2f", 
+            "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1axiyjBt-PKbf6Xt_7vnNIw4p_Pee7z2f"}
+                {"link":"https://drive.google.com/uc?id=1axiyjBt-PKbf6Xt_7vnNIw4p_Pee7z2f", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1axiyjBt-PKbf6Xt_7vnNIw4p_Pee7z2f",
-            "descripcioncorta": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos, pero en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. (forma incorrecta (mucho más fácil).",
-            "descripcion": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos, pero en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. (forma incorrecta (mucho más fácil). \nRutina: \n0) Intentar hacer un Muscle Up con la forma perfecta. \n1) Hacer entre 4 y 6 series de Muscle Ups con el máximo número de repeticiones posibles. (Hasta no poder hacer ningún Muscle Up más). \n2) Hacer entre 4 y 6 series de Muscle Ups con salto con el máximo número de repeticiones posibles. (Hasta no poder hacer ningún Muscle Up con salto más). \n3) Hacer 4 series de dominadas con el máximo número de repeticiones posibles. \n4) Hacer 4 series de fondos en la barra con el máximo número de repeticiones posibles. \n5) Hacer 4 series de fondos en paralelas con el máximo número de repeticiones posibles. \nPunto inicial: \nTras dos semanas sin hacer ejercicio (por falta de tiempo y organización), he perdido bastante fuerza y fluidez en el movimiento. Consigo hacer 3 Muscle Ups con mala forma. \nSemana 1: \nDurante esta primera semana, he ido 4 veces a las barras. El primer día fui con Gonzalo Ramírez y llegué a hacer 3 Muscle Ups pero con mala forma. Los dos días siguientes, los resultados fueron parecido o incluso un poco peores, pero el último día, aunque volviese a hacer solo 3 Muscle Ups seguidos, me sentía que estaba ganando fuerza y además la técnica era ligeramente mejor."
+            "descripcioncorta": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos con una forma incorrecta, en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. Mi objetivo es hacerlo con las piernas totalmente estiradas y sin nada de balanceo.",
+            "descripcion": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estas en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos con una forma incorrecta, en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. Mi objetivo es hacerlo con las piernas totalmente estiradas y sin nada de balanceo. \nPunto inicial:  \nTras dos semanas sin hacer ejercicio (por falta de tiempo y organización), he perdido bastante fuerza y fluidez en el movimiento. Consigo hacer 3 Muscle Ups con mala forma. \nSemana 1: \nDurante esta primera semana, he ido 4 veces a las barras. El primer día fui con Gonzalo Ramírez y llegué a hacer 3 Muscle Ups pero con mala forma. Los dos días siguientes, los resultados fueron parecido o incluso un poco peores, pero el último día, aunque volviese a hacer solo 3 Muscle Ups seguidos, me sentía que estaba ganando fuerza y además la técnica era ligeramente mejor. \nSemana 2: \nEsta semana he notado un gran progreso, el primer día, he llegado a hacer 3 Muscle Ups seguidos, pero cada vez usando menos impulso con las piernas, es decir, con una mejor técnica. El segundo día fue la primera vez que me salió con las piernas estiradas (pero balanceandome).  Al tercer día conseguí llegar a hacer tres seguidos con las piernas rectas, y además este fue el primer día que el dolor en las manos no me limitaba el entrenamiento. \nSemana 3: \nEn esta semana he notado un cambio brusco. El primer día conseguí hacerlo 3 veces seguidas con balanceo. El segundo día me salió cuatro veces seguidas y empecé a practicarlo sin impulso. El tercer día me enfoqué en otros ejercicios de fuerza. \nSemana 4: \nEsta semana no he tenido mucho tiempo para practicar, pero he progresado bastante. El primer día ya me salió sin balanceo, pero no sincronizado, usando primero un brazo y luego el otro. El segundo día me enfoque en ejercicios de fuerza y variados. \nSemana 5: \nEsta semana ha sido muy variada, el primer día me sentí mucho menos fuerte ya que estuve varios días sin poder ir a las barras. El segundo día ya recuperé la fuerza y estuve haciendo ejercicios de fuerza. Al tercer día ya me salió perfecto. :) \nConclusión: \nHacer calistenia (hacer ejercicio con tu peso corporal) te puede aportar una gran cantidad de beneficios aparte de hacer ejercicio y ganar fuerza y musculatura. Lo primero es que te sirve como forma de desconectar del mundo, ya que estas solo tú, contra ti mismo. También, donde yo hago ejercicio, estas al aire libre rodeado de naturaleza y respirando aire puro, cosa que actualmente con las mascarillas no podemos disfrutar. Con la calistenia puedes proponerte retos personajes, como aprender hacer un nuevo movimiento, como por ejemplo el Muscle Up. Hacer ejercicio regularmente te aporta una gran cantidad de beneficios como la disciplina, la constancia y te da muchísima satisfacción a largo plazo y te hace estar orgulloso de ti mismo y de tu propio cuerpo, dandote más confianza en ti mismo y una mayor autoestima. También es una forma para conocer gente de cualquier edad. Le recomiendo a cualquier persona empezar a hacer ejercicio y en especial la calistenia ya que lo he disfrutado mucho. Espero seguir haciendo más actividades relacionadas con la calistenia y aprender pronto algún ejercicio más."
         },
         {
             "id": 6,
@@ -111,11 +117,11 @@
             "c": true,
             "a": false,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1pB-5jbqSDEvIuEeWTWXTV2HKDjmWrfgi",
+            "blogImage": "https://drive.google.com/uc?id=1pB-5jbqSDEvIuEeWTWXTV2HKDjmWrfgi", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"},
-                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"},
-                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL"}
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL", "square": false},
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL", "square": false},
+                {"link":"https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1pB-5jbqSDEvIuEeWTWXTV2HKDjmWrfgi",
             "descripcioncorta": "En Agosto, me compré una guitarra porque tenía muchas ganas de aprender a tocar un instrumento musical. Llevo un mes aprendiendo a tocar la guitarra pero no le he dedicado mucho tiempo. Me he comprometido a practicar todos los días durante un mes para ver todo lo que puedo aprender y mejorar en estos 30 días.",
@@ -128,12 +134,12 @@
             "c": true,
             "a": false,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1qqhcH23gTC0HCeiMz5v13lthiOdUGnxg",
+            "blogImage": "https://drive.google.com/uc?id=1qqhcH23gTC0HCeiMz5v13lthiOdUGnxg", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1QP_yRMvjARO9kelY1AkfBw37tsjEg0xB"},
-                {"link":"https://drive.google.com/uc?id=1l5vdLnPjm4uB4r6BVMwF4Su42GrpH1ld"},
-                {"link":"https://drive.google.com/uc?id=1BrSiEvQyE9NdBaCuVN9xxX95UbJCPJ3W"},
-                {"link":"https://drive.google.com/uc?id=1uySZNbnwefL29hwXezqGbGiEYlv_geLe"}
+                {"link":"https://drive.google.com/uc?id=1QP_yRMvjARO9kelY1AkfBw37tsjEg0xB", "square": false},
+                {"link":"https://drive.google.com/uc?id=1l5vdLnPjm4uB4r6BVMwF4Su42GrpH1ld", "square": false},
+                {"link":"https://drive.google.com/uc?id=1BrSiEvQyE9NdBaCuVN9xxX95UbJCPJ3W", "square": false},
+                {"link":"https://drive.google.com/uc?id=1uySZNbnwefL29hwXezqGbGiEYlv_geLe", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1U0lSGaZaIfz5b3tUJAlxKPXDTwwfKwfL",
             "descripcioncorta": "Para crear mi portfolio para CAS he decidido en vez de usar algún programa para diseñar páginas webs como Wix, Blogger, Google Sites o Tumblr, directamente programar yo mismo mi portfolio, como un reto personal. Me encanta la programación y me parece una buena idea para poner en práctica mis habilidades.",
