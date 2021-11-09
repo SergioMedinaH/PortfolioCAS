@@ -6,18 +6,7 @@ function CustomImageLarge({image, square}) {
         
         <div>
             {square ?
-            <div className=' relative h-32 sm:h-128 w-32 sm:w-128  mb-20 rounded-3xl'>
-            <Image 
-            alt={data.textoImagenAlternativa}
-            src={image}
-            priority
-            layout='fill'
-            objectFit='cover'
-            className='rounded-3xl'
-             />
-        </div>
-                :
-                <div className=' relative h-32 sm:h-128 w-3/4 sm:w-1/2  mb-20 rounded-3xl'>
+            <div className=' relative h-32 sm:h-128 w-3/4 sm:w-1/2 mb-20 rounded-3xl'>
                 <Image 
                 alt={data.textoImagenAlternativa}
                 src={image}
@@ -25,7 +14,18 @@ function CustomImageLarge({image, square}) {
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'
-                 />
+             />
+            </div>
+            :
+            <div className=' relative h-32 sm:h-128 w-3/4 sm:w-1/2  mb-20 rounded-3xl'>
+                <Image 
+                alt={data.textoImagenAlternativa}
+                src={image}
+                priority
+                layout='fill'
+                objectFit='cover'
+                className='rounded-3xl'
+            />
             </div>
         }
         </div>
