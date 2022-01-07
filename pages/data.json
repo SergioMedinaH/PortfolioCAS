@@ -4,8 +4,8 @@
     "items": [
         {
             "id": 0,
-            "titulo": "Simulador del Juego de la vida de Conway (Próximamente)",
-            "descripcioncard": "Programando una máquina de Turing.",
+            "titulo": "Programando una máquina de Turing (Próximamente)",
+            "descripcioncard": "Simulador del Juego de la vida de Conway",
             "c": true,
             "a": false,
             "s": false,
@@ -39,8 +39,8 @@
                 {"link":"https://drive.google.com/uc?id=1KkT5ikD-KjpImbK07bPWGKy-teIv0lYE", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1GrbDESAj0GJWnGgsG2Ts0p99Ie0TtfuG",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "Hace aproximadamente un año aprendí a utilizar Blender, un programa de diseño 3D. Aprendí bastante de modelado 3D y tenía bastante confianza, pero había una cosa que se me daba muy mal, crear materiales, es decir, el aspecto de la superficie del objeto. Por lo que me he propuesto un reto, hacer un render al día durante una semana centrándome en los materiales.",
+            "descripcion": "Hace aproximadamente un año aprendí a utilizar Blender, un programa de diseño 3D. Aprendí bastante de modelado 3D y tenía bastante confianza, pero había una cosa que se me daba muy mal, crear materiales, es decir, el aspecto de la superficie del objeto. Por lo que me he propuesto un reto, hacer un render al día durante una semana centrándome en los materiales.\n A lo largo del reto he ido aprendiendo conceptos y técnicas nuevas y poco a poco he ido ganando más confianza. A cada render le he dedicado más o menos media hora, excepto al último que en realidad he tardado dos días, dedicando varias horas diarias, ya que decidí centrarme también en el modelado 3D y en los pequeños detalles. Cada diseño tiene su punto original y creativo y estoy bastante contento con los resultados. Tras acabar el reto, he conseguido coger confianza en este área tan importante del diseño 3D que tanto me costaba, he aprendido nuevos conceptos y he pasado un buen rato desarrollando mi creatividad. Además el formato de reto personal lo ha hecho todo mucho más interesante y motivador.\n Le recomiendo a cualquier persona que aprenda un poco de diseño 3D ya que aunque la curva de aprendizaje sea al principio muy empinada, es una forma muy interesante de desarrollar la creatividad y también puede ser muy útil para el futuro, por ejemplo puedes tener una idea de un concepto tridimensional en tu mente y al pasarlo a un ordenador, puedes transmitir esa información a otra persona muy fácilmente."
         },
         {
             "id": 2,
@@ -97,13 +97,14 @@
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1_wR5a7UP3XCBQdPucjSF-Q2-IAcCuK0_", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1M75Z_d0vAsckIDkzhXZCYyMZNPUdyEaW_", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_wR5a7UP3XCBQdPucjSF-Q2-IAcCuK0_", "square": false}
+                {"link":"https://drive.google.com/uc?id=1M9RM0cuC2ye9Y21njDMuPOrG5Z-Nh2Ff", "square": false},
+                {"link":"https://drive.google.com/uc?id=1M98zt8804A5_GjVYcpU9J7pt9ThicBVW", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1_wR5a7UP3XCBQdPucjSF-Q2-IAcCuK0_",
             "descripcioncorta": "Todos los años el Colegio Logos realiza una carrera solidaria para recaudar fondos para un colegio que han construido en Gambia. Aparte de aportar mi granito de arena en la recaudación de dinero, he decidido trabajar en la organización del evento. ",
-            "descripcion": "Todos los años el Colegio Logos realiza una carrera solidaria para recaudar fondos para un colegio que han construido en Gambia. Aparte de aportar mi granito de arena en la recaudación de dinero, he decidido trabajar en la organización del evento. "
+            "descripcion": "Todos los años el Colegio Logos realiza una carrera solidaria para recaudar fondos para un colegio que han construido en Gambia. Aparte de aportar mi granito de arena en la recaudación de dinero, he decidido trabajar en la organización del evento junto a mi clase. Primero realizamos una serie de charlas a todo el colegio, desde primero de primaria hasta segundo de bachillerato. Yo presenté el proyecto a varias clases de primaria, desde segundo hasta quinto, a varias de la ESO y a una de segundo de Bachillerato. Posteriormente, los días anteriores a la carrera, estuvimos preparando el circuito con cintas y carteles. El 30 de noviembre fue el día de la carrera solidaria y estuvimos desde las ocho y media hasta la hora de comer organizando todo.\n El resultado y la organización del día de la carrera fue mucho mejor de lo que nos esperábamos. Ha sido una actividad muy satisfactoria personalmente, desde dar charlas informativas a una gran variedad de cursos hasta la organización y el excelente desarrollo de la carrera. En especial me ha gustado mucho dar charlas a los niños pequeños ya que nunca había tenido esa experiencia. Para nosotros fue un reto el hecho de arrancar, pero luego todo se volvió muy fluido. El recuento de la recaudación fue una experiencia nueva y sorprendente, por la gran cantidad de fondos que habíamos recaudado.\n Le recomiendo a cualquier persona esta actividad ya que te enseña a organizar y coordinar un gran evento, que es una habilidad personal muy importante y luego es muy satisfactorio contribuir no solo en los fondos sino en la organización de un proyecto solidario."
         },
         {
             "id": 6,

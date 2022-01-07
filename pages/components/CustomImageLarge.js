@@ -15,7 +15,7 @@ function CustomImageLarge({image, square}) {
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'
-                
+                quality={25}
              />
             </div>
             :
@@ -28,7 +28,7 @@ function CustomImageLarge({image, square}) {
                 layout='fill'
                 objectFit='cover'
                 className='rounded-3xl'
-                
+                quality={25}
             />
             </div>
         }
