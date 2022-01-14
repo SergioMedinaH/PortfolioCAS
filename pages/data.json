@@ -20,7 +20,7 @@
         },
         {
             "id": 1,
-            "titulo": "Reto: Un render al día durante una semana (Próximamente)",
+            "titulo": "Reto: Un render al día durante una semana",
             "descripcioncard": "Mejorando mis habilidades de diseño 3D usando Blender.",
             "c": true,
             "a": false,
@@ -60,7 +60,7 @@
         },
         {
             "id": 3,
-            "titulo": "Duendes de la Navidad (Próximamente)",
+            "titulo": "Duendes de la Navidad",
             "descripcioncard": "Reparando juguetes para Navidad",
             "c": false,
             "a": false,
@@ -92,7 +92,7 @@
         },
         {
             "id": 5,
-            "titulo": "Falinkuta (Próximamente)",
+            "titulo": "Falinkuta",
             "descripcioncard": "Apoyando al colegio Falinkuta en Gambia.",
             "c": true,
             "a": false,
