@@ -7,7 +7,7 @@
             "titulo": "Reto Bring Sally Up (Próximamente)",
             "descripcioncard": "Próximamente!!",
             "c": true,
-            "a": false,
+            "a": true,
             "s": false,
             "blogImage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3", "square": false,
             "images": [
@@ -19,7 +19,23 @@
             "descripcion": "..."
         },
         {
-            "id": 0,
+            "id": 1,
+            "titulo": "Rutina de ejercicio en casa (Próximamente)",
+            "descripcioncard": "Próximamente!!",
+            "c": true,
+            "a": true,
+            "s": false,
+            "blogImage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1d6c67DOfijanBL_HoZPWBK8sL_t1k0vd", "square": false},
+                {"link":"https://drive.google.com/uc?id=1muWCpZEtsSOTXaLFDjeF5kE-fAReJ-va", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3",
+            "descripcioncorta": "...",
+            "descripcion": "..."
+        },
+        {
+            "id": 2,
             "titulo": "Programando una máquina de Turing (Próximamente)",
             "descripcioncard": "Simulador del Juego de la vida de Conway",
             "c": true,
@@ -35,7 +51,7 @@
             "descripcion": "..."
         },
         {
-            "id": 1,
+            "id": 3,
             "titulo": "Reto: Un render al día durante una semana",
             "descripcioncard": "Mejorando mis habilidades de diseño 3D usando Blender.",
             "c": true,
@@ -59,23 +75,23 @@
             "descripcion": "Hace aproximadamente un año aprendí a utilizar Blender, un programa de diseño 3D. Aprendí bastante de modelado 3D y tenía bastante confianza, pero había una cosa que se me daba muy mal, crear materiales, es decir, el aspecto de la superficie del objeto. Por lo que me he propuesto un reto, hacer un render al día durante una semana centrándome en los materiales.\n A lo largo del reto he ido aprendiendo conceptos y técnicas nuevas y poco a poco he ido ganando más confianza. A cada render le he dedicado más o menos media hora, excepto al último que en realidad he tardado dos días, dedicando varias horas diarias, ya que decidí centrarme también en el modelado 3D y en los pequeños detalles. Cada diseño tiene su punto original y creativo y estoy bastante contento con los resultados. Tras acabar el reto, he conseguido coger confianza en este área tan importante del diseño 3D que tanto me costaba, he aprendido nuevos conceptos y he pasado un buen rato desarrollando mi creatividad. Además el formato de reto personal lo ha hecho todo mucho más interesante y motivador.\n Le recomiendo a cualquier persona que aprenda un poco de diseño 3D ya que aunque la curva de aprendizaje sea al principio muy empinada, es una forma muy interesante de desarrollar la creatividad y también puede ser muy útil para el futuro, por ejemplo puedes tener una idea de un concepto tridimensional en tu mente y al pasarlo a un ordenador, puedes transmitir esa información a otra persona muy fácilmente."
         },
         {
-            "id": 2,
-            "titulo": "Operación Kilo (Próximamente)",
+            "id": 4,
+            "titulo": "Operación Kilo",
             "descripcioncard": "Organizando la Operación Kilo en el colegio.",
             "c": false,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1drxRmFvCHTdYYo197b96Qh_UrKHfW1M0", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1d6c67DOfijanBL_HoZPWBK8sL_t1k0vd", "square": false},
-                {"link":"https://drive.google.com/uc?id=1muWCpZEtsSOTXaLFDjeF5kE-fAReJ-va", "square": false}
+                {"link":"https://drive.google.com/uc?id=1AAmU3SsZfF9jezsg606jfznbnW6MYwrG", "square": false},
+                {"link":"https://drive.google.com/uc?id=1tQBNFnXZWBjWhAKBCX2iyIcMInI0fHaF", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "cardimage": "https://drive.google.com/uc?id=1drxRmFvCHTdYYo197b96Qh_UrKHfW1M0",
+            "descripcioncorta": "Hoy en mi colegio he participado en la organización de la Operación Kilo. El colegio realiza esta recogida todos los años y por primera vez he podido participar en la organización del proyecto.",
+            "descripcion": "Hoy en mi colegio he participado en la organización de la Operación Kilo. El colegio realiza esta recogida todos los años y por primera vez he podido participar en la organización del proyecto. He ayudado en la recogida de los alimentos por todas las clases y luego en la organización y clasificación de todos los alimentos y productos recogidos. Ha sido una actividad muy satisfactoria ya que cada persona del colegio pone su granito de solidaridad con resultados increíbles. A la hora de clasificar y ordenar los alimentos y productos de limpieza, me ha sorprendido la gran cantidad recogida para personas que lo necesitan. Le recomiendo este tipo de actividades solidarias a cualquier persona, por la satisfacción personal que aporta, al igual que valores como el trabajo en equipo. También me habría gustado haber realizado la operación kilo en otros lugares."
         },
         {
-            "id": 3,
+            "id": 5,
             "titulo": "Duendes de la Navidad",
             "descripcioncard": "Reparando juguetes para Navidad",
             "c": false,
@@ -91,7 +107,7 @@
             "descripcion": "Hoy junto a mi amigo Alex Yu hemos ido antes de Navidad al centro de la juventud de Las Rozas a reparar juguetes procedentes de la campaña de recogida, para luego darlos en Navidad. Hemos sido unas 7 personas clasificando, ordenando y arreglando una gran cantidad de juguetes, durante una tarde. Al principio, había una gran cantidad de juguetes totalmente desordenados, incompletos y rotos, por lo que tuvimos que ir ordenando las distintas piezas de los juguetes y luego clasificándolos y viendo si estaban en un estado aceptable para ser regalados en Navidad. Nos habría gustado mucho haber podido ir durante varios días, pero cuando hablamos con la organizadora, nos dijo que ya era el último día.\n Ha sido una actividad muy satisfactoria, ya que gracias a este pequeño evento solidario, una gran cantidad de niños en malas condiciones económicas van a tener una gran ilusión en Navidad, pero también es una forma de conocer a personas nuevas, probar cosas que nunca habías hecho y te aporta valores como la solidaridad y el trabajo en equipo."
         },
         {
-            "id": 4,
+            "id": 6,
             "titulo": "Socios por un día",
             "descripcioncard": "Evento online sobre informática y ciberseguridad.",
             "c": true,
@@ -107,7 +123,7 @@
             "descripcion": "El día Martes 26 de Octubre de 2021 me apunté al programa Socios por un día y estuve junto a un especialista en ciberseguridad hablando sobre el campo informática y tecnología. Con unos 12 años me interesé por el mundo de la programación y es una de mis ideas principales para realizar una carrera relacionada con ello. En el evento también estaba Teresa Indira de 1º IB E y dos chicos más. Primero cada uno de nosotros hicimos una presentación hablando sobre nosotros y nuestros intereses. Estuvimos hablando de los distintos campos de la informática y sobre las oportunidades de trabajo. Luego, nos estuvo hablando sobre la ciberseguridad y nos propuso un par de problemas para resolver. \nCon este evento, he resuelto y aclarado algunas de las dudas y preguntas que tenía. \nMe pareció una charla muy interesante y especialmente útil y creo que es muy importante hablar sobre oportunidades de trabajo con personas que se dedican a lo que a tí te gusta, que te cuenten su experiencia, sus opiniones y las recomendaciones que solamente te puede decir una persona que se dedique a ello. \nYo le recomiendo a cualquier persona que se apunte al evento Socios por un día, ya que me parece esencial informarse sobre los campos que quieres estudiar, además hablando con un profesional en el tema, ya que actualmente la mayoría de personas de mi edad tiene muchas dudas sobre las oportunidades que hay."
         },
         {
-            "id": 5,
+            "id": 7,
             "titulo": "Falinkuta",
             "descripcioncard": "Apoyando al colegio Falinkuta en Gambia.",
             "c": true,
@@ -123,7 +139,7 @@
             "descripcion": "Todos los años el Colegio Logos realiza una carrera solidaria para recaudar fondos para un colegio que han construido en Gambia. Aparte de aportar mi granito de arena en la recaudación de dinero, he decidido trabajar en la organización del evento junto a mi clase. Primero realizamos una serie de charlas a todo el colegio, desde primero de primaria hasta segundo de bachillerato. Yo presenté el proyecto a varias clases de primaria, desde segundo hasta quinto, a varias de la ESO y a una de segundo de Bachillerato. Posteriormente, los días anteriores a la carrera, estuvimos preparando el circuito con cintas y carteles. El 30 de noviembre fue el día de la carrera solidaria y estuvimos desde las ocho y media hasta la hora de comer organizando todo.\n El resultado y la organización del día de la carrera fue mucho mejor de lo que nos esperábamos. Ha sido una actividad muy satisfactoria personalmente, desde dar charlas informativas a una gran variedad de cursos hasta la organización y el excelente desarrollo de la carrera. En especial me ha gustado mucho dar charlas a los niños pequeños ya que nunca había tenido esa experiencia. Para nosotros fue un reto el hecho de arrancar, pero luego todo se volvió muy fluido. El recuento de la recaudación fue una experiencia nueva y sorprendente, por la gran cantidad de fondos que habíamos recaudado.\n Le recomiendo a cualquier persona esta actividad ya que te enseña a organizar y coordinar un gran evento, que es una habilidad personal muy importante y luego es muy satisfactorio contribuir no solo en los fondos sino en la organización de un proyecto solidario."
         },
         {
-            "id": 6,
+            "id": 8,
             "titulo": "Divulgación científica.",
             "descripcioncard": "Creando una cuenta en Instagram sobre divulgación científica.",
             "c": true,
@@ -143,7 +159,7 @@
             "descripcion": "Junto a Alex Yu, Pablo Luque y Darío Llopart hemos creado una cuenta sobre divulgación científica en Instagram. \nLa cultura científica en el mundo es muy baja y especialmente en España, por lo que hemos decidido crear la cuenta en español, aunque tengamos una menor audiencia. \nPublicamos dos veces por semana datos curiosos, paradojas, y conceptos que te explotan la cabeza explicados de forma sencilla para todo el público. Nuestro objetivo es explicar conceptos científicos de una forma breve, creativa y entretenida, generando un interés al lector y motivándolos a aprender más sobre el tema y a interesarse por la ciencia. \nEste proyecto a largo plazo para CAS va a ser un gran reto para nosotros, ya que tenemos que publicar rutinariamente pequeños bloques de información que sean interesantes para el lector, en un formato propio que sea entretenido y ameno. Buscar temas curiosos y atractivos, y a la vez explicarlo de forma sencilla y amena es una tarea mucho más difícil de lo que pensábamos. \nCon este proyecto nos hemos dado cuenta de la importancia que tiene la divulgación en el mundo, pero también lo difícil que es hacerlo, ya que es necesaria una gran creatividad y mucho tiempo para aprender e informarse sobre el tema, y luego poder compactar una gran cantidad de información en una pequeña publicación. \nAdemás, al empezar a investigar hemos aprendido sobre una gran cantidad de temas muy interesantes que antes no conocíamos. \nCuenta: @atomic_facts_ \nLink: \nhttps://www.instagram.com/atomic_facts_/"
         },
         {
-            "id": 7,
+            "id": 9,
             "titulo": "Plantando 5000 árboles",
             "descripcioncard": "Gran plantación de árboles 2021",
             "c": false,
@@ -163,7 +179,7 @@
             "descripcion": "El pasado sábado 23 de octubre, fuí a la gran plantación de árboles organizada por el ayuntamiento de Las Rozas junto a Alex Yu, Rodrigo Pérez, Álvaro García y Saul López. Nosotros plantamos 11 árboles de distintas especies y en total se plantaron más de 5.000 árboles. Nosotros plantamos encinas, pinos, pistachos, fresnos, quejigos, majuelos, enebros, madroños, etc. Todas especies autóctonas de la zona. \nHa sido una jornada muy satisfactoria, ya que es una forma de contrarrestar todo el daño que hacemos al medioambiente, y realizar un pequeño esfuerzo para el planeta y al fin y al cabo, para todos nosotros. También es una actividad al aire libre, una forma de desconectar del mundo, del estrés y realizar una actividad nueva para ayudar al planeta. \nSeguramente luchar contra el cambio climático sea el mayor reto al que se enfrenta la humanidad, ya que en realidad es una lucha contra nosotros mismos, contra el sistema de consumo extremo que tenemos, un sistema insostenible. \nEstas pequeñas acciones y sobre todo un cambio de mentalidad es lo que necesitamos para solucionarlo."
         },
         {
-            "id": 8,
+            "id": 10,
             "titulo": "Ruta en bicicleta",
             "descripcioncard": "Hoy he recorrido 32,5 kilómetros en bicicleta.",
             "c": false,
@@ -186,7 +202,7 @@
             "descripcion": "Desde muy pequeño me ha encantado montar en bici, pero por falta de tiempo, llevaba varios meses sin hacerlo. Por lo que, junto a mi compañero Alex Yu, nos hemos propuesto hacer una ruta en bici por Las Rozas de Madrid, para disfrutar del ejercicio, la naturaleza y desconectar totalmente de los estudios. \nHemos recorrido en total unos 32,5 kilómetros aproximadamente en dos horas y media, recorriendo gran parte de las Rozas y descubriendo nuevos caminos y zonas que no conocíamos. \nMe ha parecido una actividad muy satisfactoria al estar haciendo ejercicio al aire libre, rodeado de naturaleza, y respirando aire puro, cosa que actualmente con las mascarillas no podemos hacer mucho. También ha sido una forma de desconectar de este comienzo del Bachillerato Internacional, el cual puede generar estrés y preocupaciones, debido a la gran cantidad de trabajo por delante. \nYo creo que la salud física es una parte muy pequeña de los beneficios que puede otorgar el hábito de hacer ejercicio. La actividad física regular te puede servir para desconectar de todos los problemas y te ayuda a generar disciplina y constancia, lo cual es una de las habilidades más importantes y que más beneficios te otorga. También, hacer ejercicio te genera una gran satisfacción a largo plazo, ya que todo el esfuerzo que haces lo haces por tu salud. También esta disciplina te puede generar más confianza en ti mismo y una mayor autoestima. Además la combinación entre estudios y actividad física es la forma óptima de vivir ya que los beneficios se retroalimentan entre sí. \nLe recomiendo esta actividad a cualquier persona para que disfruten de dar una vuelta en bici con amigos, que desconecten, mantengan un estilo de vida saludable y pasen un buen rato, y espero que para la próxima seamos más personas."
         },
         {
-            "id": 9,
+            "id": 11,
             "titulo": "Aprendiendo a hacer el Muscle Up perfecto",
             "descripcioncard": "Aprendiendo a hacer el Muscle Up sin impulso en 30 días.",
             "c": false,
@@ -203,7 +219,7 @@
             "descripcion": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estás en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos con una forma incorrecta, en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. Mi objetivo es hacerlo con las piernas totalmente estiradas y sin nada de balanceo. \nPunto inicial:  \nTras dos semanas sin hacer ejercicio (por falta de tiempo y organización), he perdido bastante fuerza y fluidez en el movimiento. Consigo hacer 3 Muscle Ups con mala forma. \nSemana 1: \nDurante esta primera semana, he ido 4 veces a las barras. El primer día fui con Gonzalo Ramírez y llegué a hacer 3 Muscle Ups pero con mala forma. Los dos días siguientes, los resultados fueron parecidos o incluso un poco peores, pero el último día, aunque volviese a hacer solo 3 Muscle Ups seguidos, me sentía que estaba ganando fuerza y además la técnica era ligeramente mejor. \nSemana 2: \nEsta semana he notado un gran progreso, el primer día, he llegado a hacer 3 Muscle Ups seguidos, pero cada vez usando menos impulso con las piernas, es decir, con una mejor técnica. El segundo día fue la primera vez que me salió con las piernas estiradas (pero balanceándome).  Al tercer día conseguí llegar a hacer tres seguidos con las piernas rectas, y además este fue el primer día que el dolor en las manos no me limitaba el entrenamiento. \nSemana 3: \nEn esta semana he notado un cambio brusco. El primer día conseguí hacerlo 3 veces seguidas con balanceo. El segundo día me salió cuatro veces seguidas y empecé a practicarlo sin impulso. El tercer día me enfoqué en otros ejercicios de fuerza. \nSemana 4: \nEsta semana no he tenido mucho tiempo para practicar, pero he progresado bastante. El primer día ya me salió sin balanceo, pero no sincronizado, usando primero un brazo y luego el otro. El segundo día me enfoque en ejercicios de fuerza y variados. \nSemana 5: \nEsta semana ha sido muy variada, el primer día me sentí mucho menos fuerte ya que estuve varios días sin poder ir a las barras. El segundo día ya recuperé la fuerza y estuve haciendo ejercicios de fuerza. Al tercer día ya me salió perfecto. :) \nConclusión: \nHacer calistenia (hacer ejercicio con tu peso corporal) te puede aportar una gran cantidad de beneficios aparte de hacer ejercicio y ganar fuerza y musculatura. Lo primero es que te sirve como forma de desconectar del mundo, ya que estás solo tú, contra ti mismo. También, donde yo hago ejercicio, estás al aire libre rodeado de naturaleza y respirando aire puro, cosa que actualmente con las mascarillas no podemos disfrutar. Con la calistenia puedes proponerte retos personajes, como aprender hacer un nuevo movimiento, como por ejemplo el Muscle Up. Hacer ejercicio regularmente te aporta una gran cantidad de beneficios como la disciplina, la constancia y te da muchísima satisfacción a largo plazo y te hace estar orgulloso de ti mismo y de tu propio cuerpo, ganando más confianza en ti mismo y una mayor autoestima. También es una forma para conocer gente de cualquier edad. Le recomiendo a cualquier persona empezar a hacer ejercicio y en especial la calistenia ya que lo he disfrutado mucho. Espero seguir haciendo más actividades relacionadas con la calistenia y aprender pronto algún ejercicio más."
         },
         {
-            "id": 10,
+            "id": 12,
             "titulo": "Aprendiendo a tocar la guitarra",
             "descripcioncard": "Aprendiendo a tocar la guitarra en 30 días.",
             "c": true,
@@ -220,7 +236,7 @@
             "descripcion": "En Agosto, me compré una guitarra porque tenía muchas ganas de aprender a tocar un instrumento musical. Llevo un mes aprendiendo a tocar la guitarra pero no le he dedicado mucho tiempo. Me he comprometido a practicar todos los días durante un mes para ver todo lo que puedo aprender y mejorar en estos 30 días. \nSemana 1: \nEsta semana he progresado bastante con la guitarra y he empezado el hábito de practicar todos los días. He estado practicando sobre todo los acordes (los más básicos), y también un poco el ritmo con la púa. \nCanciones: \nBella Ciao \nFast Car - Tracy Chapman \nBack in Black - AC/DC (solo una parte) \nHighway to Hell - AC/DC (solo una parte) \nPerfect - Ed Sheeran \nSemana 2: \nEsta semana he estado probando cosas nuevas, un poco de fingerstyle (demasiado avanzado para mi nivel) y también he estado practicando el acorde de Fa, el cual suele ser el más difícil para los principiantes y todavía no me sale. Esta semana he notado un poco de bloqueo en general. \nCanciones: \n(Todas las anteriores) \nRiver Flows in You - Yiruma \nSemana 3: \nEsta semana he practicado las escalas y he comenzado un curso online gratuito para aprender en el orden correcto. He realizado una serie de sus clases. \nCanciones: \n(Todas las anteriores) \nBack in Black - AC/DC (otra parte) \nHouse of the rising sun - The Animals \nSemana 4: \nEsta semana he notado un gran progreso, he cogido más agilidad y velocidad en los dedos. También he aprendido unos cuantos acordes suspendidos y un poco de teoría musical. \nCanciones: \n(Todas las anteriores) \nHallelujah - Leonard Cohen \nCloser - The Chainsmokers \nSemana 5: \n(Todas las anteriores) \nEstos últimos días he estado practicando los acordes con cejilla, aunque todavía no me salen. \nCanciones: \nSeven Nation Army (solo) - The White Stripes \nTal Como Eres - El Canto del Loco \nLo más importante de estos 30 días ha sido crear el hábito de practicar regularmente, he intentaré continuar con este hábito durante mucho tiempo. He disfrutado mucho durante este mes, viendo como poco a poco iba progresando y aprendiendo nuevos conceptos y canciones. Tocar un instrumento ha sido una cosa que siempre he querido hacer pero nunca me he propuesto realmente hasta este verano. También mejora la creatividad y es una forma de desconectar del mundo y de todos los problemas, concentrándote solo en la guitarra. Después de este poco tiempo tocando la guitarra, me he dado cuenta de que ha sido una decisión muy acertada y la cual recomiendo a cualquier persona."
         },
         {
-            "id": 11,
+            "id": 13,
             "titulo": "Programando mi portfolio para CAS",
             "descripcioncard": "Diseñando y programando mi portfolio para CAS.",
             "c": true,
