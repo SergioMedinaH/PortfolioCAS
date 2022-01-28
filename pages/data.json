@@ -36,7 +36,7 @@
         },
         {
             "id": 2,
-            "titulo": "Programando una máquina de Turing (Próximamente)",
+            "titulo": "Programando una máquina de Turing",
             "descripcioncard": "Simulador del Juego de la vida de Conway",
             "c": true,
             "a": false,
@@ -48,7 +48,7 @@
             ],
             "cardimage": "https://drive.google.com/uc?id=17okEdrBbTGWWko1h86M8YCBUL4WEWDm3",
             "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcion": "Hace unos días descubrí “El Juego de la vida”, un juego matemático diseñado por el matemático John Horton Conway. Es un juego de cero jugadores, en el cual hay una cuadrícula donde los cuadrados pueden estar vivos o muertos, y el sistema va evolucionando dependiendo de unas reglas muy sencillas, pero se pueden generar patrones muy interesantes.\n Las reglas son:\n - Una célula muerta con exactamente 3 células vecinas vivas 'nace' (es decir, al turno siguiente estará viva).\n - Una célula viva con 2 o 3 células vecinas vivas sigue viva, en otro caso muere (por 'soledad' o 'superpoblación').\nMe pareció un concepto muy interesante y se me ocurrió intentar programarlo yo mismo. Al principio tuve bastantes problemas ya que nunca había programado nada parecido y tenía muchos errores, pero conseguí arreglarlo y que todo funcionase. El resultado me sorprendió bastante ya que funcionaba bastante bien, añadí varias funciones interesantes.\n La idea de poder pasar un modelo matemático a un formato visual en un ordenador a través de código ha sido muy interesante, ha sido un reto personal bastante desafiante, ya que no había hecho nada parecido, y ha sido muy satisfactorio conseguir que funcione todo perfectamente. La habilidad de poder convertir un concepto matemático en un programa de ordenador es muy útil. Le recomiendo a cualquier persona que le interese la programación intentar a programar algo así."
         },
         {
             "id": 3,
