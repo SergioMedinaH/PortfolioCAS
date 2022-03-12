@@ -6,9 +6,9 @@
             "id": 0,
             "titulo": "Llevando ropa a Ucrania (Próximamente)",
             "descripcioncard": "Próximamente!!",
-            "c": true,
+            "c": false,
             "a": false,
-            "s": false,
+            "s": true,
             "blogImage": "https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false,
             "images": [
                 {"link":"https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false},
@@ -24,7 +24,7 @@
             "descripcioncard": "Próximamente!!",
             "c": true,
             "a": false,
-            "s": false,
+            "s": true,
             "blogImage": "https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false,
             "images": [
                 {"link":"https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false},
