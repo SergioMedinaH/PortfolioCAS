@@ -42,6 +42,7 @@ function PortfolioCard({id, titulo, descripcioncard, c,a,s}) {
 
   console.log (data.items)
   console.log (data.items[laID])
+  console.log ("se viene errorrrrrrrrrrrrrrrrrrrrrrrr")
   console.log (data.items[laID].images)
   console.log(laID)
   const more = () => {
