@@ -4,10 +4,10 @@
     "items": [
         {
             "id": 0,
-            "titulo": "Organizando un concurso de puentes (Próximamente)",
-            "descripcioncard": "Concurso de construcción de puentes para alumnos de ESO",
-            "c": false,
-            "a": true,
+            "titulo": "Aprendiendo a hacer el Full Planche (Parte 1)",
+            "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más dificiles",
+            "c": true,
+            "a": false,
             "s": false,
             "blogImage": "https://drive.google.com/uc?id=1ymEMx0kwMFRhQMxLMJYe88DaVRwb8juK", "square": false,
             "images": [
@@ -31,12 +31,12 @@
                 {"link":"https://drive.google.com/uc?id=1ymEMx0kwMFRhQMxLMJYe88DaVRwb8juK", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1ymEMx0kwMFRhQMxLMJYe88DaVRwb8juK",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "Próximamente",
+            "descripcion": "Próximamente"
         },
         {
             "id": 2,
-            "titulo": "Reto de flexibilidad (Próximamente)",
+            "titulo": "Reto de flexibilidad (En proceso)",
             "descripcioncard": "Reto de 31 días de flexibilidad",
             "c": false,
             "a": true,
@@ -47,12 +47,12 @@
                 {"link":"https://drive.google.com/uc?id=1ymEMx0kwMFRhQMxLMJYe88DaVRwb8juK", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1ymEMx0kwMFRhQMxLMJYe88DaVRwb8juK",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "La flexibilidad es probablemente mi mayor punto débil. Por ello, he decidido hacer un reto de flexibilidad de 31 días (todo el mes de mayo). Mi objetivo es mejorar mi flexibilidad, no solo para poder hacer más ejercicios, si no también para mi salud física.",
+            "descripcion": "Durante el programa de CAS, he estado realizando varias actividades relacionadas con la calistenia, pero me he dado cuenta de que la flexibilidad es mi limitante en muchos ejercicios.  La flexibilidad es probablemente mi mayor punto débil. Por ello, he decidido hacer un reto de flexibilidad de 31 días (todo el mes de mayo). Mi objetivo es mejorar mi flexibilidad, no solo para poder hacer más ejercicios, si no también para mi salud física. \nSemana 1: Con una semana, ya he notado un cambio en mi flexibilidad. Estoy muy motivado a seguir con la rutina. Estoy dedicando entre 10 y 15 minutos.\n Semana 2: He introducido ejercicios con gomas elásticas. \nSemana 3: He seguido la rutina, la cual esta siendo muy relajante, ya que es la única verdadera pausa que tengo en el día. \nSemana 4: Próximamente. \nSemana 5: Próximamente."
         },
         {
             "id": 3,
-            "titulo": "Organizando un concierto benéfico (Próximamente)",
+            "titulo": "Organizando un concierto benéfico",
             "descripcioncard": "Concierto benéfico para Ucrania y La Palma",
             "c": true,
             "a": false,
@@ -63,8 +63,8 @@
                 {"link":"https://drive.google.com/uc?id=1ymEMx0kwMFRhQMxLMJYe88DaVRwb8juK", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1BYaFO93J1IlfOo8FYiHh__eqsOZ62_GK",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "El pasado sábado 7 de mayo actuamos por primera vez el grupo Primitive Revelation en la Festividad Las Rozas Solidaria, que tuvo el objetivo recaudar dinero para Ucrania y La Palma.",
+            "descripcion": "El pasado sábado 7 de mayo actuamos por primera vez el grupo Primitive Revelation en la Festividad Las Rozas Solidaria, que tuvo el objetivo recaudar dinero para Ucrania y La Palma. La actuación y las canciones las llevábamos ensayando periódicamente una vez a la semana durante varios meses, por lo que la actuación salió genial. \nLa sensación era totalmente distinta a lo que me espera. Me esperaba estar nervioso y tener la presión de estar tocando delante de otras personas, en un momento que llevábamos meses esperando y practicando, pero estaba completamente relajado y disfrutando de cada segundo. El tiempo se me pasó volando, se suponía que ibamos a tocar 10 minutos y acabamos tocando 30 minutos, pasando de 3 a 5 canciones. \nHa sido una experiencia muy satisfactoria y enriquecedora, ya que ha sido algo que hace un año ni me habría pensado a parar, con la que he ampliado mi zona de comfort. También a sido muy gratificante que hubiese salido tan bien y que al público le haya gustado tanto. \nYa estamos preparando nuevas canciones para nuestra siguiente actuación en junio. \nHay vídeos de la actuación en el portfolio secundario."
         },
         
         {
@@ -85,7 +85,7 @@
         },
         {
             "id": 5,
-            "titulo": "Reto Jóvenes Emprendedores (Próximamente)",
+            "titulo": "Reto Jóvenes Emprendedores",
             "descripcioncard": "Participando en el reto jóvenes emprendedores de La Caixa",
             "c": true,
             "a": false,
@@ -97,12 +97,12 @@
                 {"link":"https://drive.google.com/uc?id=1kQWAsIn5iTiztIOgjgCRzWiXh52wISNo", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1SCf92oaJli4v1JON77uxA7T-LSCz_R68",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "Junto a mis compañeros y amigos Pablo Luque, Alex Yu y Gonzalo Ramírez, nos inscribimos en el Reto Emprende de la Caixa, donde ya habíamos participado otros años, pero no habíamos conseguido ganar.",
+            "descripcion": "Junto a mis compañeros y amigos Pablo Luque, Alex Yu y Gonzalo Ramírez, nos inscribimos en el Reto Emprende de la Caixa, donde ya habíamos participado otros años, pero no habíamos conseguido ganar. Desarrollamos en equipo el proyecto Espuma Solidaria, que consistía la venta de jabones reciclados para con los beneficios obtenidos, llevar más jabones a regiones del mundo donde no tienen un acceso a jabones o distintos recursos para una higiene digna. Nos dimos cuenta de que una gran cantidad de personas en zonas poco desarrolladas sufrían enfermedades como la diarrea a causa de esta falta de higiene. Desarrollamos toda la propuesta del proyecto, contactamos con posibles fabricantes de jabones artesanales y creamos un video y pagina web enseñando al mundo nuestra idea. \nPero al final no nos eligieron. Sin embargo, ha sido una actividad muy satisfactoria y enriquecedora, donde hemos aprendido a trabajar en equipo, ha desarrollar un proyecto completo y muchas mas cosas. \nEspero que al año que viene podamos volver a participar con una idea nueva y por fín ser elegidos."
         },
         {
             "id": 6,
-            "titulo": "Concurso de primavera de Matemáticas (Próximamente)",
+            "titulo": "Concurso de primavera de Matemáticas",
             "descripcioncard": "Participando en el concurso de primavera de Matemáticas",
             "c": true,
             "a": false,
@@ -112,12 +112,12 @@
                 {"link":"https://drive.google.com/uc?id=16EOnCPxG9uB6Qo_-tudf6bxw6wY_30kR", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=16EOnCPxG9uB6Qo_-tudf6bxw6wY_30kR",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "El miércoles 9 de febrero de 2022 participé desde el colegio en el XXV Concurso de Primavera de Matemáticas.",
+            "descripcion": "El miércoles 9 de febrero de 2022 participé desde el colegio en el XXV Concurso de Primavera de Matemáticas. La primera fase, en la que yo participé, contaba con una serie de problemas matemáticos de gran dificultad en un formato tipo test. Mi objetivo era probar una experiencia nueva y ver si llegaba a clasificarme. Aunque no me clasifiqué por un punto. Igualmente, fue una experiencia nueva y satisfactoria, al haber estado muy cerca de clasificarme en una prueba matemática difícil. También ha sido una forma de salir de la rutina diaria y de la zona de comfort. "
         },
         {
             "id": 7,
-            "titulo": "Creando un grupo de música (Próximamente)",
+            "titulo": "Creando un grupo de música",
             "descripcioncard": "Creando el grupo Primitive Revelation",
             "c": true,
             "a": false,
@@ -127,8 +127,8 @@
                 {"link":"https://drive.google.com/uc?id=1S2WmKC-5mbY6X-XzuX1YMGxSyI-QQSf3", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1S3M0ebVq_dqv5Muli-p0E7C9rvAFCXX2",
-            "descripcioncorta": "...",
-            "descripcion": "..."
+            "descripcioncorta": "Tras empezar el reto de aprender a tocar la guitarra en 30 días (octubre 2021, 1ª evaluación), junto a mis compañeros Alex Yu, Javier López, Jaime López, Martín Hernández y Tiana, estudiante de IB de otro colegio, creamos el grupo de música Primitive Revelation.",
+            "descripcion": "Tras empezar el reto de aprender a tocar la guitarra en 30 días (octubre 2021, 1ª evaluación), junto a mis compañeros Alex Yu, Javier López, Jaime López, Martín Hernández y Tiana, estudiante de IB de otro colegio, creamos el grupo de música Primitive Revelation. Llevamos más de 6 meses ensayando una vez a la semana, para preparar un concierto benéfico el 7 de mayo. \nFormar un grupo de música es una experiencia inolvidable, muy satisfactoria y de la cual se puede aprender mucho, especialmente para mí ya que llevo menos de un año tocando la guitarra de forma autodidacta. Es una experiencia muy enriquecedora tanto musicalmente, ya que me corrigen y me enseñan, como personalmente, ya que a través de la música, se pueden formar amistades muy fuertes. \nHe descubierto que tocar de forma coordinada en un grupo es mucho más difícil de lo que pensaba, y que se tiene que ensayar durante mucho tiempo para que luego suene bien.\nNuestro plan es seguir ensayando para el concierto solidario del 7 de mayo y futuros eventos."
         },{
             "id": 8,
             "titulo": "Reto Bring Sally Up",
