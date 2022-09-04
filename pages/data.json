@@ -75,13 +75,16 @@
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1BELmdlJ-yNITCcbRm7uzV27ueAelbynm", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
+                {"link":"https://drive.google.com/uc?id=1BXGpoJVbEyEHK7eSPA7qx9TVkyqTairw", "square": false},
+                {"link":"https://drive.google.com/uc?id=19p9UaJ29dkmzd5soedyUNjKq1FyrbdJy", "square": false},
+                {"link":"https://drive.google.com/uc?id=1BR40yuKjS9h1iHgDYc54W0qnkwX4QMLN", "square": false},
+                {"link":"https://drive.google.com/uc?id=1BR-YvRJ1avqBvULX2NnjBBjGahlLPPa7", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "cardimage": "https://drive.google.com/uc?id=1BELmdlJ-yNITCcbRm7uzV27ueAelbynm",
+            "descripcioncorta": "Durante mis vacaciones por los Pirineos (una semana), he aprovechado junto a mi familia para realizar una serie de rutas por la naturaleza.",
+            "descripcion": "Durante mis vacaciones por los Pirineos (una semana), he aprovechado junto a mi familia para realizar una serie de rutas por la naturaleza. Han sido unos días muy gratificantes, donde he desconectado completamente, haciendo deporte. Cada día hacíamos una serie de rutas y paseos distintos. El entorno montañoso y lleno de naturaleza era impresionante. También llevaba mucho tiempo sin andar tanto y en especial la ruta por la Cola de Caballo ha sido agotadora pero muy satisfactoria. Recomiendo a cualquier persona visitar los Pirineos aragoneses y realizar paseos por la naturaleza y espero volver por la zona pronto."
         },
         {
             "id": 5,
@@ -90,43 +93,33 @@
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1AIi4vJDkEIKht_FdHJ6Uqo0pfF9pXYl6", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
+                {"link":"https://drive.google.com/uc?id=1BdiUt1Qt85M_rHeiHSAlccDJaGvlCi9i", "square": false},
+                {"link":"https://drive.google.com/uc?id=1Aa6vVrpjWPg9tGILHZY--K-8b5gnkA_L", "square": false},
+                {"link":"https://drive.google.com/uc?id=19yRZ44-vYtpm0F8QRzQOBbxdQIfASRDa", "square": false},
+                {"link":"https://drive.google.com/uc?id=1A9lS_dBOaOu1yH30uX1Y3CAknurhm3Vj", "square": false}
+                
             ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
-        },
-        {
-            "id": 6,
-            "titulo": "Programando una página web al día durante una semana",
-            "descripcioncard": "Mejorando mis habilidades de programación",
-            "c": true,
-            "a": false,
-            "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
-            "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
-            ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "cardimage": "https://drive.google.com/uc?id=1AIi4vJDkEIKht_FdHJ6Uqo0pfF9pXYl6",
+            "descripcioncorta": "Hoy junto a mi familia hemos realizado una ruta de 20 kilómetros por la montaña.",
+            "descripcion": "Hoy junto a mi familia hemos realizado una ruta de 20 kilómetros por la montaña. Ha sido una experiencia dura, sobre todo la vuelta, pero muy gratificante y con un paisaje inigualable. La ruta seguida estaba completamente rodeada de naturaleza y con una serie de cascadas naturales. En total estuvimos 5 horas, con un descanso en el punto más alto de la ruta para reponer fuerzas, junto a la cascada más famosa. Ha sido una experiencia muy especial y una forma única de desconectar de la rutina habitual, haciendo deporte y rodeado de naturaleza. \nEste tipo de experiencias son muy satisfactorias ya que es una forma de salir de tu zona de comfort y proponerte un pequeño reto personal. Le recomiendo a cualquier persona que realice esta ruta y espero realizar más rutas similares en un futuro cercano."
         },
         {
             "id": 7,
-            "titulo": "Aprendiendo a hacer el Front Lever (Verano)",
+            "titulo": "Aprendiendo a hacer el Front Lever (EN PROCESO)",
             "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más impresionantes",
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1eWgRArAAGWzisY0zu4OMSi4tvlpVlpKX", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
+                {"link":"https://drive.google.com/uc?id=1eeOYDHs5iRlCTfAH1XHfrjw0Ub-zcvCo", "square": false},
+                {"link":"https://drive.google.com/uc?id=1eGa338xmr7Mbd1OGu7qYrIG7j_ifyTsT", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "cardimage": "https://drive.google.com/uc?id=1eWgRArAAGWzisY0zu4OMSi4tvlpVlpKX",
+            "descripcioncorta": "Llevaba meses deseando aprender una habilidad, el Front Lever. Este ejercicio, consiste en sujetarse en una barra horizontal con los brazos totalmente estirados y con el cuerpo totalmente recto horizontalmente, mirando hacia arriba.",
+            "descripcion": "Llevaba meses deseando aprender una habilidad, el Front Lever. Este ejercicio, consiste en sujetarse en una barra horizontal con los brazos totalmente estirados y con el cuerpo totalmente recto horizontalmente, mirando hacia arriba. Este ejercicio requiere bastante fuerza y desde principios de agosto he estado haciendo una rutina de unos 40 minutos cada dos días para practicarlo. Al principio podía aguantarlo pero con las piernas totalmente encogidas. Con el paso del tiempo, mientras que voy ganando fuerza, puedo ir estirando las piernas, con el objetivo de estirarlas completamente.\nTras un mes entrenándolo, he notado una mejora en mi fuerza y puedo mantenerlo con una pierna estirada completamente y otra encogida, o formando un ángulo de 90º con las piernas. Calculo que lo conseguiré en un mes más.\nEN PROCESO"
         },
         {
             "id": 8,
