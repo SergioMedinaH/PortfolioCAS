@@ -4,8 +4,74 @@
     "items": [
         {
             "id": 0,
-            "titulo": "Aprendiendo a hacer el Full Planche (Parte 2)",
-            "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más dificiles",
+            "titulo": "Aprendiendo el Back Lever",
+            "descripcioncard": "Aprendiendo a hacer el Back Lever en 7 días",
+            "c": false,
+            "a": true,
+            "s": false,
+            "blogImage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1cKZ-BOwgm_7mKMYox2kWqGQ-jUcEfFNF", "square": false},
+                {"link":"https://drive.google.com/uc?id=1cJhmJFCG2Y88hBi6yLmMMc2FAEblAApW", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF",
+            "descripcioncorta": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever.",
+            "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
+        },
+        {
+            "id": 1,
+            "titulo": "Tirolina por la montaña",
+            "descripcioncard": "Tirandome por una tirolina de 1 km de longitud por los pirineos",
+            "c": false,
+            "a": true,
+            "s": false,
+            "blogImage": "https://drive.google.com/uc?id=19rmOBSE5fKDWI_IMpiKyZJLMbAKgT4Pv", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=19nY88MZQeaCKT6Yfd_wVT-SQ7ExKAf-w", "square": false},
+                {"link":"https://drive.google.com/uc?id=19speDid8ZyV1yHeO1Pr4NhmCDiWUDvh7", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=19rmOBSE5fKDWI_IMpiKyZJLMbAKgT4Pv",
+            "descripcioncorta": "De pequeño me había tirado alguna vez por tirolinas pequeñas, de no más de 50 metros de longitud y siempre había querido tirarme por una tirolina “de verdad”, de mayor distancia.",
+            "descripcion": "De pequeño me había tirado alguna vez por tirolinas pequeñas, de no más de 50 metros de longitud y siempre había querido tirarme por una tirolina “de verdad”, de mayor distancia. \nHoy he dado un paseo junto a mi familia por la zona de Jaca, subiendo por una colina hasta llegar a un pequeño pueblo. Allí, nos hemos tirado por una tirolina de más de un kilómetro de longitud entre dos montañas, con un lago por debajo.  \nLa experiencia ha sido increíble, sentir el viento a gran velocidad por todo el cuerpo con unas vistas sorprendentes, rodeado por naturaleza y montaña. \nRealizar una actividad nueva de vez en cuando, en este caso tirarme por una tirolina de 1 km, es una experiencia que recomiendo a todo el mundo para salir de la zona de comfort y probar cosas nuevas, y especialmente la actividad que he realizado, que espero volver a repetir en un futuro cercano."
+        },
+        {
+            "id": 2,
+            "titulo": "Renovando la cuenta de Atomic Facts",
+            "descripcioncard": "Renovando la cuenta de divulgación científica Atomic Facts con reels y TikToks",
+            "c": true,
+            "a": false,
+            "s": true,
+            "blogImage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1BxC2dz5bolKubHq2XP0k5jTn6IjZTEAr", "square": false},
+                {"link":"https://drive.google.com/uc?id=1Bvr_ZL-_DMGfZ8uYdX3H3rNM3UPjyJlK", "square": false},
+                {"link":"https://drive.google.com/uc?id=1BvFmiY7Uw-tZCZvXKMh7Xg3bD06Kh4Ev", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1nHOgop_OrUNlqkA-1oMclJ0jIvIZA7td",
+            "descripcioncorta": "Tras comenzar con la cuenta de divulgación científica Atomic Facts, nos dimos cuenta de que con las publicaciones normales de Instagram no íbamos a llegar a una gran audiencia, limitando nuestro potencial de alcance. La solución a este problema fue empezar a crear Reels, es decir, en vez de una serie de imágenes, crear videos de menos de un minuto, ya que estos llegan a un mayor número de usuarios.",
+            "descripcion": "Tras comenzar con la cuenta de divulgación científica Atomic Facts, nos dimos cuenta de que con las publicaciones normales de Instagram no íbamos a llegar a una gran audiencia, limitando nuestro potencial de alcance. La solución a este problema fue empezar a crear Reels, es decir, en vez de una serie de imágenes, crear videos de menos de un minuto, ya que estos llegan a un mayor número de usuarios. \nCrear reels nos generó una serie de problemas que tuvimos que solucionar, como la plataforma donde crear los vídeos, diseñar otro formato totalmente nuevo y llamativo, hacer animaciones y la idea de poner voz a los videos, que de momento no estamos usando. \nCon el primer Reel publicado ya vimos una gran mejora en el alcance de la publicación y en poco tiempo llegamos a los 100 seguidores, que era uno de nuestros mayores objetivos. Otro de nuestros grandes objetivos era llegar a 10.000 cuentas, y recientemente ya lo hemos superado!\nNuestro objetivo es publicar dos o tres Reels a la semana durante todo el verano y el segundo año de IB y ver a cuantas personas llegamos, mejorando la cultura científica de todos los países hispanohablantes. \nEsta siendo una experiencia muy satisfactoria ver como nuestras publicaciones llegan a una gran cantidad de personas.\n Cuenta: @atomic_facts_"
+        },
+        {
+            "id": 3,
+            "titulo": "Reto: Un ejercicio de guitarra al día (I)",
+            "descripcioncard": "Haciendo una rutina de ejercicios de guitarra para mejorar diversas técnicas",
+            "c": true,
+            "a": false,
+            "s": false,
+            "blogImage": "https://drive.google.com/uc?id=1CFtWfFkWFy8oFgFNjWCzuy1m2gOLEjQi", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1CLiG10dPH4x039MPxslN3e8uHFaYQYw6", "square": false},
+                {"link":"https://drive.google.com/uc?id=1CHE1ZwOWMjAPNWZ-LZNyIZQOXRUyGkFV", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1CFtWfFkWFy8oFgFNjWCzuy1m2gOLEjQi",
+            "descripcioncorta": "Durante un mes he seguido el reto de un libro que encontré online que te propone 365 ejercicios de guitarra para ganar velocidad y soltura con el intrumento.",
+            "descripcion": "Durante un mes he seguido el reto de un libro que encontré online que te propone 365 ejercicios de guitarra para ganar velocidad y soltura con el intrumento. Tras un mes de trabajo, dedicandole entre 5 y 15 minutos al día he notado una gran mejora en mi agilidad de mis dedos. Voy a intentar seguir todos los días de forma constante durante un año, ya que creo que estos ejercicios me van a ayudar a mejorar bastante más rápido que tocando solo canciones. Recientemente he conseguido una guitarra española por lo que también buscaré ejercicios para tocar en la guitarra española (porque los que tengo ahora son solo para eléctrica). Le recomiendo a todo el mundo que toque la guitarra que haga este tipo de ejercicios, no que solo toque canciones, ya que es una forma de practicar centrada en ganar agilidad con el instrumento. Especialmente se lo recomiendo a personas que esten aprendiendo por su cuenta, sin profesor, ya que puede servir como una guía."
+        },
+        
+        {
+            "id": 4,
+            "titulo": "Paseos diarios por los Pirineos",
+            "descripcioncard": "Paseos diarios por la región de Jaca",
             "c": false,
             "a": true,
             "s": false,
@@ -18,26 +84,11 @@
             "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
         },
         {
-            "id": 1,
-            "titulo": "Limpiando las playas de Gerona",
-            "descripcioncard": "Recogiendo la basura de la playa de Gerona",
+            "id": 5,
+            "titulo": "Ruta de montaña por la Cola de Caballo",
+            "descripcioncard": "Ruta de más de 20 km por el parque nacional de Ordesa",
             "c": false,
-            "a": false,
-            "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
-            "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
-            ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
-        },
-        {
-            "id": 2,
-            "titulo": "Aprendiendo a componer música",
-            "descripcioncard": "Aprendiendo a componer música usando FL Studio",
-            "c": true,
-            "a": false,
+            "a": true,
             "s": false,
             "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
             "images": [
@@ -48,7 +99,7 @@
             "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
         },
         {
-            "id": 3,
+            "id": 6,
             "titulo": "Programando una página web al día durante una semana",
             "descripcioncard": "Mejorando mis habilidades de programación",
             "c": true,
@@ -63,8 +114,8 @@
             "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
         },
         {
-            "id": 4,
-            "titulo": "Aprendiendo a hacer el Front Lever",
+            "id": 7,
+            "titulo": "Aprendiendo a hacer el Front Lever (Verano)",
             "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más impresionantes",
             "c": false,
             "a": true,
@@ -78,7 +129,7 @@
             "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
         },
         {
-            "id": 5,
+            "id": 8,
             "titulo": "Participando en el concurso de talento PECA",
             "descripcioncard": "Participando en el concurso de talento PECA con mi grupo de música",
             "c": true,
@@ -89,56 +140,57 @@
                 {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=1qKGB9zf_Y2X_n_AkwQF86ZPiK43DExV6",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "descripcioncorta": "El pasado 18 de Junio, mi grupo y yo participamos en el concurso de talento PECA, organizado en Las Rozas por la asociación PECA.",
+            "descripcion": "El pasado 18 de Junio, mi grupo y yo participamos en el concurso de talento PECA, organizado en Las Rozas por la asociación PECA. Fue la primera vez que hemos tenido que llevar nosotros casi todo nuestro equipo (guitarras, amplis, batería, teclado, cables, …) al lugar. En total participaron unos 40 músicos, solistas, en grupos, …. El ambiente era muy agradable y estuvimos hablando con varios participantes que eran muy simpáticos. En nuestro turno, tocamos tres canciones que salieron aceptables, pero nos habían salido mejor en los ensayos. Además, por los examenes de evaluación, y por varias razones más, no habíamos podido ensayar durante el mes anterior, solo una hora en la mañana anterior a la actuación. No obstante, quedamos segundo en el concurso y nos dieron un diploma y unos auriculares.\nLa experiencia ha sido increible, tanto a la hora de tocar nosotros delante de bastantes personas, como poder escuchar a una gran cantidad de músicos alucinantes. También ha sido la segunda vez que toco en público en un escenario con 10 meses de experiencia con la guitarra. También ha sido una buena forma de volver a salir de la zona de comfort y de probar cosas nuevas."
         },
         {
-            "id": 6,
+            "id": 9,
             "titulo": "Entrenando velocidad de natación durante 30 días",
             "descripcioncard": "Entrenando velocidad al nadar durante 30 días para ver el progreso",
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1dHODV9ujBD83hqnj7dng7uJo0v2nxobB", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
+                {"link":"https://drive.google.com/uc?id=1dVWDwZbEs-AsvlRpX_QFfPjt8S8NpPAZ", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "cardimage": "https://drive.google.com/uc?id=1dHODV9ujBD83hqnj7dng7uJo0v2nxobB",
+            "descripcioncorta": "Con el comienzo del verano, volví a nadar a diario, y me di cuenta de que había perdido casi toda mi resistencia al nadar.",
+            "descripcion": "Con el comienzo del verano, volví a nadar a diario, y me di cuenta de que había perdido casi toda mi resistencia al nadar. Hace dos o tres años llegaba a hacer 100 largos seguidos en mi piscina, pero ahora me cuesta hasta llegar a los 10. Por eso, he decido practicar mi resistencia nadando durante una semana, con el objetivo de recuperar dicha resistencia.\nDía 1: Mi resistencia ha bajado mucho, he llegado a hacer 15 largos seguidos. (yendo al 80% más a o menos)\nDía 2: Hoy he notado una mejora, pero es insignificante con lo que podía hacer otros años. He llegado a hacer 25 largos al 80%.\nDía 3: Hoy he notado un gran cambio, ya no noto la limitación que he sentido los días anteriores y he realizado 60 largos al 85%.\nDía 4: Hoy he seguido mejorando y he llegado a los 100 largos.\nDía 5: Hoy también he hecho 100 largos.\nDía 6: Hoy he superado mi record de otros años y he hecho 130 largos al 75%\nDía 7: Hoy he duplicado mi record personal y he hecho 200 largos al 60%.\nEste mini reto ha sido muy satisfactorio ya que en muy poco tiempo no he solo conseguido recuperar mis capacidades cardiopulmonares de otros años (en los dos últimos años y en especial el último me he enfocado en realizar sobre todo ejercicio de fuerza y no de cardio, cosa que a partir de este verano estoy haciendo más a menudo), si no que he duplicado mi record anterior. Recomiendo a cualquier persona que aproveche el verano y la piscina para nadar y mejorar las habilidades cardiopulmonares."
         },
         {
-            "id": 7,
+            "id": 10,
             "titulo": "Creando una página web de física",
             "descripcioncard": "Creando una página web de física para estudiantes IB",
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=16hFT2WhGCVSAGfUr3Q-r_sR5qvTx4Q8x", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
+                {"link":"https://drive.google.com/uc?id=1RQezeoceQLdTqkgl17ifU0t-EEiXI7Xq", "square": false},
+                {"link":"https://drive.google.com/uc?id=1P2RpJNm9qqv5T9eBYxJ5l5QHu9uqGA9t", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "cardimage": "https://drive.google.com/uc?id=16hFT2WhGCVSAGfUr3Q-r_sR5qvTx4Q8x",
+            "descripcioncorta": "Durante varias semanas, toda la clase de física hemos estado trabajando en una página web en español para ayudar a otros estudiantes de física de IB.",
+            "descripcion": "Durante varias semanas, toda la clase de física hemos estado trabajando en una página web en español para ayudar a otros estudiantes de física de IB. \nPrimero hemos repartido entre todos las distintas tareas y contenidos que había que hacer entre todos para organizar todo el trabajo. Yo me he encargado junto a Yuan y Pablo a hacer un apartado sobre citas y referencias con toda la información necesaria, links a otras páginas y varios consejos y trucos. La actividad ha sido bastante satisfactoria, tanto el proceso, pudiendo coordinarnos todos a la perfección, como el resultado final, con el que podremos ayudar a otros estudiantes como nosotros. También ha sido muy útil para nuestro propio aprendizaje y la interiorización de lo que hemos ido aprendiendo a lo largo del programa, ya que como se suele decir, la mejor forma de aprender algo es enseñándoselo a otros.\nRealizar este proyecto ha sido una experiencia que recomiendo hacer a cualquier persona y espero realizar más proyectos similares a este en un futuro cercano."
         },
         {
-            "id": 8,
-            "titulo": "Mejorando mi capacidad pulmonar buceando",
+            "id": 11,
+            "titulo": "Entrenando mi buceo durante una semana",
             "descripcioncard": "Mejorando mi capacidad pulmonar a la hora de bucear",
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1d_9kGOx2RkXHsWTfA1VC0rmwKpGFKMfC", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
+                {"link":"https://drive.google.com/uc?id=1d2qUPr5BdTkH7aYppJonckekyN80DkMr", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "cardimage": "https://drive.google.com/uc?id=1d_9kGOx2RkXHsWTfA1VC0rmwKpGFKMfC",
+            "descripcioncorta": "Nada más empezar el verano, lo primero que hice fue ir directo a la piscina y empezar a nadar y bucear. Pero me di cuenta que mi capacidad pulmonar había bajado mucho en comparación con el año pasado.",
+            "descripcion": "Nada más empezar el verano, lo primero que hice fue ir directo a la piscina y empezar a nadar y bucear. Pero me di cuenta que mi capacidad pulmonar había bajado mucho en comparación con el año pasado. El año pasado podía recorrer un largo y medio de la piscina, y ahora no llegaba ni a uno completo. Por eso decidí practicar mi buceo y mejorar mi capacidad pulmonar. Durante una semana realice una serie de largos buceando, llegando a conseguir bucear dos largos sin respirar en el último día. Gracias a este pequeño reto personal, he conseguido mejorar una habilidad física muy importante y con muchos beneficios para la salud, por lo que ha sido una experiencia muy gratificante. Por ello, recomiendo este tipo de reto a cualquier persona. Voy a seguir practicando esto el resto del verano y ver si puedo llegar a los tres largos."
         },
         {
-            "id": 9,
+            "id": 12,
             "titulo": "Diseñando un logo para mi grupo de música",
             "descripcioncard": "Diseñando y creando un logo para mi grupo de música Un tono más",
             "c": true,
@@ -149,53 +201,8 @@
                 {"link":"https://drive.google.com/uc?id=15CPAC8jiIeUwXndvm40iSKgvJWPWOizo", "square": false}
             ],
             "cardimage": "https://drive.google.com/uc?id=15CPAC8jiIeUwXndvm40iSKgvJWPWOizo",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
-        },
-        {
-            "id": 10,
-            "titulo": "Aprendiendo a hacer el caballito en la bici",
-            "descripcioncard": "Aprendiendo a hacer el caballito en la bici",
-            "c": false,
-            "a": true,
-            "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
-            "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
-            ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
-        },
-        {
-            "id": 11,
-            "titulo": "Diseñando y creando camisetas de futbol",
-            "descripcioncard": "Diseñando y creando camisetas de futbol para mi equipo",
-            "c": true,
-            "a": false,
-            "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
-            "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
-            ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
-        },
-        {
-            "id": 12,
-            "titulo": "Creando un equipo de fútbol",
-            "descripcioncard": "Creando un equipo de fútbol con mis amigos",
-            "c": true,
-            "a": true,
-            "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44", "square": false,
-            "images": [
-                {"link":"https://drive.google.com/uc?id=1_TRQaomqUsLTuJQjYBf1glfk-imYa2oh", "square": false}
-            ],
-            "cardimage": "https://drive.google.com/uc?id=1_Qkv5xVVGdf--Bo2KCkEHcCyg5_nYr44",
-            "descripcioncorta": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante.",
-            "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
+            "descripcioncorta": "Hoy junto a Alex Yu y Javier López hemos creado un logo para nuestro grupo de música, Un Tono Más.",
+            "descripcion": "Hoy junto a Alex Yu y Javier López hemos creado un logo para nuestro grupo de música, Un Tono Más. Llevábamos bastante tiempo pensando en hacer un logo para el grupo para empezar a promocionarlo y hoy lo hemos hecho. Primero hemos empezado a hacer bocetos e ideas en papel y luego pasarlas a ordenador usando un programa llamado Inkscape. Después de una larga serie de pequeños cambios hemos llegado al logotipo final del cual estamos bastante orgullosos. Ha sido una experiencia corta, pero entretenida y creativa. También es muy satisfactorio poder pasar a una imagen lo que tienes en tu cabeza de forma exacta."
         },
         
         {
@@ -215,19 +222,19 @@
         },
         {
             "id": 14,
-            "titulo": "Aprendiendo a hacer el Handstand Push Up (Próximamente (Verano))",
+            "titulo": "Aprendiendo a hacer el Handstand Push Up (Parte 1)",
             "descripcioncard": "Aprendiendo movimientos de calistenia",
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1cXKQdugRTGAYHvUVQI3Igf9um33rwoqi", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false},
-                {"link":"https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false}
+                {"link":"https://drive.google.com/uc?id=1cVAif58RAQx-7IYTLWZDZ-h6g9rwQmyq", "square": false},
+                {"link":"https://drive.google.com/uc?id=1cqUDqaqYZHM3TH_g9s3r_WTNgcpkDwvW", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo",
-            "descripcioncorta": "Próximamente",
-            "descripcion": "Próximamente"
+            "cardimage": "https://drive.google.com/uc?id=1cXKQdugRTGAYHvUVQI3Igf9um33rwoqi",
+            "descripcioncorta": "Durante este verano me he propuesto aprenden a hacer el Handstand Push Up, un ejercicio avanzado de calistenia en el que tienes que hacer una flexión en una posición de pino.",
+            "descripcion": "Durante este verano me he propuesto aprenden a hacer el Handstand Push Up, un ejercicio avanzado de calistenia en el que tienes que hacer una flexión en una posición de pino. \nDurante las dos primeras semanas del reto, he estado practicando a hacer el pino sobre una pared, y posteriormente dejar de apoyarme en la pared y mantener la postura el mayor tiempo posible. Después de dos semanas he llegado a aguantar entre 5 y 8 segundos en el aire sin tocar la pared. Mi objetivo es llegar a mantenerme unos 15 segundos para ya empezar a practicar la flexión. \nEn la tercera semana ya he pasado los 10 segundos en el aire, además estando mucho más recto. Estoy notando que he ganado bastante movilidad en los hombros en comparación con mi estado inicial.  \nEn la cuarta semana he seguido practicando y he empezado a hacer las flexiones apoyado en la pared (que lo hace bastante más fácil). También estoy empezando a notar más control y fuerza en las manos, ya que se utilizan para sostener todo el peso corporal. \nTodavía me queda bastante tiempo y practica para aprender a hacerlo sin pared, pero voy a seguir haciéndolo a menudo para conseguirlo. \nCon este pequeño reto no solo estoy aprendiendo dos ejercicios nuevos, el pino y las flexiones en pino, si no que a parte de fuerza, estoy ganando sobre todo movilidad en los hombros y muñecas y equilibrio en todo el cuerpo."
         },
         {
             "id": 15,
@@ -236,12 +243,12 @@
             "c": false,
             "a": true,
             "s": false,
-            "blogImage": "https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1cskD_vN6uSEXRNkzVcuB1tx3T4YjYJtt", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false},
-                {"link":"https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo", "square": false}
+                {"link":"https://drive.google.com/uc?id=1cskD_vN6uSEXRNkzVcuB1tx3T4YjYJtt", "square": false},
+                {"link":"https://drive.google.com/uc?id=1c_v5d0Zpqga1MZo68Xj0kAS4b2W96rRk", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1aPfOryOZO3qglJyOgD0EfKsClO__IKbo",
+            "cardimage": "https://drive.google.com/uc?id=1cskD_vN6uSEXRNkzVcuB1tx3T4YjYJtt",
             "descripcioncorta": "La flexibilidad es probablemente mi mayor punto débil. Por ello, he decidido hacer un reto de flexibilidad de 31 días (todo el mes de mayo). Mi objetivo es mejorar mi flexibilidad, no solo para poder hacer más ejercicios, si no también para mi salud física.",
             "descripcion": "Durante el programa de CAS, he estado realizando varias actividades relacionadas con la calistenia, pero me he dado cuenta de que la flexibilidad es mi limitante en muchos ejercicios.  La flexibilidad es probablemente mi mayor punto débil. Por ello, he decidido hacer un reto de flexibilidad de 31 días (todo el mes de mayo). Mi objetivo es mejorar mi flexibilidad, no solo para poder hacer más ejercicios, si no también para mi salud física. \nSemana 1: Con una semana, ya he notado un cambio en mi flexibilidad. Estoy muy motivado a seguir con la rutina. Estoy dedicando entre 10 y 15 minutos.\nSemana 2: He introducido ejercicios con gomas elásticas.\nSemana 3: He seguido la rutina, la cual esta siendo muy relajante, ya que es la única verdadera pausa que tengo en el día.\nSemana 4: He continuado con la rutina, pero no voy notando mucho progreso.\nSemana 5: Esta semana he acabado la rutina y he notado bastante más progreso que la semana pasada.\nEste reto personal ha sido muy satisfactorio ya que he mejorado bastante en un area que era uno de mis puntos débiles. Trabajar la flexibilidad no ayuda solo a ser más flexibles a la hora de hacer algunos ejercicios, si no que también se traduce en salud a largo plazo. Espero continuar con esta rutina durante el mayor tiempo posible y seguir mejorando."
         },
