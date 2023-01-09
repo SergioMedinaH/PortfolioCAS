@@ -4,6 +4,38 @@
     "items": [
         {
             "id": 0,
+            "titulo": "Diseño y programación de una página web de un restaurante",
+            "descripcioncard": "Inspirando a otras personas con arte digital creado por IA",
+            "c": true,
+            "a": false,
+            "s": true,
+            "blogImage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1cKZ-BOwgm_7mKMYox2kWqGQ-jUcEfFNF", "square": false},
+                {"link":"https://drive.google.com/uc?id=1cJhmJFCG2Y88hBi6yLmMMc2FAEblAApW", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF",
+            "descripcioncorta": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever.",
+            "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
+        },
+        {
+            "id": 1,
+            "titulo": "Creando un Instagram y TikTok de guitarra",
+            "descripcioncard": "Inspirando a otras personas con arte digital creado por IA",
+            "c": true,
+            "a": false,
+            "s": true,
+            "blogImage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF", "square": false,
+            "images": [
+                {"link":"https://drive.google.com/uc?id=1cKZ-BOwgm_7mKMYox2kWqGQ-jUcEfFNF", "square": false},
+                {"link":"https://drive.google.com/uc?id=1cJhmJFCG2Y88hBi6yLmMMc2FAEblAApW", "square": false}
+            ],
+            "cardimage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF",
+            "descripcioncorta": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever.",
+            "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
+        },
+        {
+            "id": 2,
             "titulo": "Creando arte con IA",
             "descripcioncard": "Inspirando a otras personas con arte digital creado por IA",
             "c": true,
@@ -18,7 +50,7 @@
             "descripcioncorta": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever.",
             "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
         },{
-            "id": 1,
+            "id": 3,
             "titulo": "Creando un equipo de Voleyball",
             "descripcioncard": "Apuntándome en la liga municipal de voley con mis amigos",
             "c": false,
@@ -33,7 +65,7 @@
             "descripcioncorta": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever.",
             "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
         },{
-            "id": 2,
+            "id": 4,
             "titulo": "Diseñando camisetas deportivas",
             "descripcioncard": "Diseñando y creando camisetas deportivas para mi equipo",
             "c": true,
@@ -49,7 +81,7 @@
             "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
         },
         {
-            "id": 3,
+            "id": 5,
             "titulo": "Aprendiendo el Back Lever",
             "descripcioncard": "Aprendiendo a hacer el Back Lever en 7 días",
             "c": false,
@@ -65,7 +97,7 @@
             "descripcion": "En una semana he conseguido aprender un nuevo movimiento de calistenia, el Back Lever. En este ejercicio debes estar colgado de una barra, con los brazos estirados, y poner el cuerpo en horizontal mirando hacia abajo. Junto al Front Lever (lo mismo pero mirando hacia arriba), estoy aprendiendo estos dos movimientos este verano, y en una semana ya he conseguido mantener durante 6 segundos el Back Lever (es bastante más fácil que el Front) lo cual me ha sorprendido bastante ya el primer día ni me acercaba a poder hacerlo, pero ya el segundo día puede mantenerlo unos 3 segundos y cada día fuí mejorando un poco más. \nEste ejercicio no es muy difícil y lo puede aprender cualquier persona y es bastante sorprendente, por lo que le recomiendo a cualquier persona intentar aprenderlo. \nEn lo que queda de verano seguiré con el Front Lever a ver si lo consigo en tan poco tiempo (1 mes). \nMe gustaría aprender ambos movimientos para poder hacerlos seguidos junto al resto de movimientos que ya he aprendido."
         },
         {
-            "id": 4,
+            "id": 6,
             "titulo": "Tirolina por la montaña",
             "descripcioncard": "Tirandome por una tirolina de 1 km de longitud por los pirineos",
             "c": false,
@@ -81,7 +113,7 @@
             "descripcion": "De pequeño me había tirado alguna vez por tirolinas pequeñas, de no más de 50 metros de longitud y siempre había querido tirarme por una tirolina “de verdad”, de mayor distancia. \nHoy he dado un paseo junto a mi familia por la zona de Jaca, subiendo por una colina hasta llegar a un pequeño pueblo. Allí, nos hemos tirado por una tirolina de más de un kilómetro de longitud entre dos montañas, con un lago por debajo.  \nLa experiencia ha sido increíble, sentir el viento a gran velocidad por todo el cuerpo con unas vistas sorprendentes, rodeado por naturaleza y montaña. \nRealizar una actividad nueva de vez en cuando, en este caso tirarme por una tirolina de 1 km, es una experiencia que recomiendo a todo el mundo para salir de la zona de comfort y probar cosas nuevas, y especialmente la actividad que he realizado, que espero volver a repetir en un futuro cercano."
         },
         {
-            "id": 5,
+            "id": 7,
             "titulo": "Renovando la cuenta de Atomic Facts",
             "descripcioncard": "Renovando la cuenta de divulgación científica Atomic Facts con reels y TikToks",
             "c": true,
@@ -98,7 +130,7 @@
             "descripcion": "Tras comenzar con la cuenta de divulgación científica Atomic Facts, nos dimos cuenta de que con las publicaciones normales de Instagram no íbamos a llegar a una gran audiencia, limitando nuestro potencial de alcance. La solución a este problema fue empezar a crear Reels, es decir, en vez de una serie de imágenes, crear videos de menos de un minuto, ya que estos llegan a un mayor número de usuarios. \nCrear reels nos generó una serie de problemas que tuvimos que solucionar, como la plataforma donde crear los vídeos, diseñar otro formato totalmente nuevo y llamativo, hacer animaciones y la idea de poner voz a los videos, que de momento no estamos usando. \nCon el primer Reel publicado ya vimos una gran mejora en el alcance de la publicación y en poco tiempo llegamos a los 100 seguidores, que era uno de nuestros mayores objetivos. Otro de nuestros grandes objetivos era llegar a 10.000 cuentas, y recientemente ya lo hemos superado!\nNuestro objetivo es publicar dos o tres Reels a la semana durante todo el verano y el segundo año de IB y ver a cuantas personas llegamos, mejorando la cultura científica de todos los países hispanohablantes. \nEsta siendo una experiencia muy satisfactoria ver como nuestras publicaciones llegan a una gran cantidad de personas.\n Cuenta: @atomic_facts_"
         },
         {
-            "id": 6,
+            "id": 8,
             "titulo": "Reto: Un ejercicio de guitarra al día",
             "descripcioncard": "Haciendo una rutina de ejercicios de guitarra para mejorar diversas técnicas",
             "c": true,
@@ -115,7 +147,7 @@
         },
         
         {
-            "id": 7,
+            "id": 9,
             "titulo": "Paseos diarios por los Pirineos",
             "descripcioncard": "Paseos diarios por la región de Jaca",
             "c": false,
@@ -133,7 +165,7 @@
             "descripcion": "Durante mis vacaciones por los Pirineos (una semana), he aprovechado junto a mi familia para realizar una serie de rutas por la naturaleza. Han sido unos días muy gratificantes, donde he desconectado completamente, haciendo deporte. Cada día hacíamos una serie de rutas y paseos distintos. El entorno montañoso y lleno de naturaleza era impresionante. También llevaba mucho tiempo sin andar tanto y en especial la ruta por la Cola de Caballo ha sido agotadora pero muy satisfactoria. Recomiendo a cualquier persona visitar los Pirineos aragoneses y realizar paseos por la naturaleza y espero volver por la zona pronto."
         },
         {
-            "id": 8,
+            "id": 10,
             "titulo": "Ruta de montaña por la Cola de Caballo",
             "descripcioncard": "Ruta de más de 20 km por el parque nacional de Ordesa",
             "c": false,
@@ -152,7 +184,7 @@
             "descripcion": "Hoy junto a mi familia hemos realizado una ruta de 20 kilómetros por la montaña. Ha sido una experiencia dura, sobre todo la vuelta, pero muy gratificante y con un paisaje inigualable. La ruta seguida estaba completamente rodeada de naturaleza y con una serie de cascadas naturales. En total estuvimos 5 horas, con un descanso en el punto más alto de la ruta para reponer fuerzas, junto a la cascada más famosa. Ha sido una experiencia muy especial y una forma única de desconectar de la rutina habitual, haciendo deporte y rodeado de naturaleza. \nEste tipo de experiencias son muy satisfactorias ya que es una forma de salir de tu zona de comfort y proponerte un pequeño reto personal. Le recomiendo a cualquier persona que realice esta ruta y espero realizar más rutas similares en un futuro cercano."
         },
         {
-            "id": 9,
+            "id": 11,
             "titulo": "Aprendiendo a hacer el Front Lever (EN PROCESO)",
             "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más impresionantes",
             "c": false,
@@ -168,7 +200,7 @@
             "descripcion": "Llevaba meses deseando aprender una habilidad, el Front Lever. Este ejercicio, consiste en sujetarse en una barra horizontal con los brazos totalmente estirados y con el cuerpo totalmente recto horizontalmente, mirando hacia arriba. Este ejercicio requiere bastante fuerza y desde principios de agosto he estado haciendo una rutina de unos 40 minutos cada dos días para practicarlo. Al principio podía aguantarlo pero con las piernas totalmente encogidas. Con el paso del tiempo, mientras que voy ganando fuerza, puedo ir estirando las piernas, con el objetivo de estirarlas completamente.\nTras un mes entrenándolo, he notado una mejora en mi fuerza y puedo mantenerlo con una pierna estirada completamente y otra encogida, o formando un ángulo de 90º con las piernas. Calculo que lo conseguiré en un mes más.\nEN PROCESO"
         },
         {
-            "id": 10,
+            "id": 12,
             "titulo": "Participando en el concurso de talento PECA",
             "descripcioncard": "Participando en el concurso de talento PECA con mi grupo de música",
             "c": true,
@@ -183,7 +215,7 @@
             "descripcion": "El pasado 18 de Junio, mi grupo y yo participamos en el concurso de talento PECA, organizado en Las Rozas por la asociación PECA. Fue la primera vez que hemos tenido que llevar nosotros casi todo nuestro equipo (guitarras, amplis, batería, teclado, cables, …) al lugar. En total participaron unos 40 músicos, solistas, en grupos, …. El ambiente era muy agradable y estuvimos hablando con varios participantes que eran muy simpáticos. En nuestro turno, tocamos tres canciones que salieron aceptables, pero nos habían salido mejor en los ensayos. Además, por los examenes de evaluación, y por varias razones más, no habíamos podido ensayar durante el mes anterior, solo una hora en la mañana anterior a la actuación. No obstante, quedamos segundo en el concurso y nos dieron un diploma y unos auriculares.\nLa experiencia ha sido increible, tanto a la hora de tocar nosotros delante de bastantes personas, como poder escuchar a una gran cantidad de músicos alucinantes. También ha sido la segunda vez que toco en público en un escenario con 10 meses de experiencia con la guitarra. También ha sido una buena forma de volver a salir de la zona de comfort y de probar cosas nuevas."
         },
         {
-            "id": 11,
+            "id": 13,
             "titulo": "Entrenando velocidad de natación durante una semana",
             "descripcioncard": "Entrenando velocidad al nadar durante 7 días para ver el progreso",
             "c": false,
@@ -198,7 +230,7 @@
             "descripcion": "Con el comienzo del verano, volví a nadar a diario, y me di cuenta de que había perdido casi toda mi resistencia al nadar. Hace dos o tres años llegaba a hacer 100 largos seguidos en mi piscina, pero ahora me cuesta hasta llegar a los 10. Por eso, he decido practicar mi resistencia nadando durante una semana, con el objetivo de recuperar dicha resistencia.\nDía 1: Mi resistencia ha bajado mucho, he llegado a hacer 15 largos seguidos. (yendo al 80% más a o menos)\nDía 2: Hoy he notado una mejora, pero es insignificante con lo que podía hacer otros años. He llegado a hacer 25 largos al 80%.\nDía 3: Hoy he notado un gran cambio, ya no noto la limitación que he sentido los días anteriores y he realizado 60 largos al 85%.\nDía 4: Hoy he seguido mejorando y he llegado a los 100 largos.\nDía 5: Hoy también he hecho 100 largos.\nDía 6: Hoy he superado mi record de otros años y he hecho 130 largos al 75%\nDía 7: Hoy he duplicado mi record personal y he hecho 200 largos al 60%.\nEste mini reto ha sido muy satisfactorio ya que en muy poco tiempo no he solo conseguido recuperar mis capacidades cardiopulmonares de otros años (en los dos últimos años y en especial el último me he enfocado en realizar sobre todo ejercicio de fuerza y no de cardio, cosa que a partir de este verano estoy haciendo más a menudo), si no que he duplicado mi record anterior. Recomiendo a cualquier persona que aproveche el verano y la piscina para nadar y mejorar las habilidades cardiopulmonares."
         },
         {
-            "id": 12,
+            "id": 14,
             "titulo": "Creando una página web de física",
             "descripcioncard": "Creando una página web de física para estudiantes IB",
             "c": true,
@@ -214,7 +246,7 @@
             "descripcion": "Durante varias semanas, toda la clase de física hemos estado trabajando en una página web en español para ayudar a otros estudiantes de física de IB. \nPrimero hemos repartido entre todos las distintas tareas y contenidos que había que hacer entre todos para organizar todo el trabajo. Yo me he encargado junto a Yuan y Pablo a hacer un apartado sobre citas y referencias con toda la información necesaria, links a otras páginas y varios consejos y trucos. La actividad ha sido bastante satisfactoria, tanto el proceso, pudiendo coordinarnos todos a la perfección, como el resultado final, con el que podremos ayudar a otros estudiantes como nosotros. También ha sido muy útil para nuestro propio aprendizaje y la interiorización de lo que hemos ido aprendiendo a lo largo del programa, ya que como se suele decir, la mejor forma de aprender algo es enseñándoselo a otros.\nRealizar este proyecto ha sido una experiencia que recomiendo hacer a cualquier persona y espero realizar más proyectos similares a este en un futuro cercano."
         },
         {
-            "id": 13,
+            "id": 15,
             "titulo": "Entrenando mi buceo durante una semana",
             "descripcioncard": "Mejorando mi capacidad pulmonar a la hora de bucear",
             "c": false,
@@ -229,7 +261,7 @@
             "descripcion": "Nada más empezar el verano, lo primero que hice fue ir directo a la piscina y empezar a nadar y bucear. Pero me di cuenta que mi capacidad pulmonar había bajado mucho en comparación con el año pasado. El año pasado podía recorrer un largo y medio de la piscina, y ahora no llegaba ni a uno completo. Por eso decidí practicar mi buceo y mejorar mi capacidad pulmonar. Durante una semana realice una serie de largos buceando, llegando a conseguir bucear dos largos sin respirar en el último día. Gracias a este pequeño reto personal, he conseguido mejorar una habilidad física muy importante y con muchos beneficios para la salud, por lo que ha sido una experiencia muy gratificante. Por ello, recomiendo este tipo de reto a cualquier persona. Voy a seguir practicando esto el resto del verano y ver si puedo llegar a los tres largos."
         },
         {
-            "id": 14,
+            "id": 16,
             "titulo": "Diseñando un logo para mi grupo de música",
             "descripcioncard": "Diseñando y creando un logo para mi grupo de música Un tono más",
             "c": true,
@@ -245,7 +277,7 @@
         },
         
         {
-            "id": 15,
+            "id": 17,
             "titulo": "Aprendiendo a hacer el Full Planche (Parte 1)",
             "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más dificiles",
             "c": false,
@@ -260,7 +292,7 @@
             "descripcion": "Llevo varios meses haciendo ejercicios de calistenia y desde el primer momento he querido aprender a hacer el Full Planche, uno de los ejercicios más difíciles, pero también más impresionante. \nEl ejercicio consiste en mantener tu todo tu cuerpo recto, paralelo al suelo y elevado en el aire, soportando todo tu peso en los brazos, que tienen que estar rectos. \nCalculo que tardaré un año en conseguirlo, por lo que es un proceso bastante largo, difícil y duro. \nEn esta primera parte, he conseguido mejorar bastante movimientos similares, pero mucho más fáciles. \nLos ejercicios que estoy haciendo son el Tuck Planche (el mismo ejercicio pero con las piernas encogidas), el Planche Lean (hacer ese ejercicio con los pies apoyados en el suelo e inclinarse hacia delante lo máximo posible para soportar la mayor cantidad de peso posible en los brazos, y luego también hacer el Full Planche, pero con los brazos doblados, formando un ángulo de 90 grados. \nMi objetivo es seguir practicando el ejercicio e ir cada vez haciendo progresiones más difíciles para finalmente conseguirlo."
         },
         {
-            "id": 16,
+            "id": 18,
             "titulo": "Aprendiendo a hacer el Handstand Push Up (Parte 1)",
             "descripcioncard": "Aprendiendo movimientos de calistenia",
             "c": false,
@@ -276,7 +308,7 @@
             "descripcion": "Durante este verano me he propuesto aprenden a hacer el Handstand Push Up, un ejercicio avanzado de calistenia en el que tienes que hacer una flexión en una posición de pino. \nDurante las dos primeras semanas del reto, he estado practicando a hacer el pino sobre una pared, y posteriormente dejar de apoyarme en la pared y mantener la postura el mayor tiempo posible. Después de dos semanas he llegado a aguantar entre 5 y 8 segundos en el aire sin tocar la pared. Mi objetivo es llegar a mantenerme unos 15 segundos para ya empezar a practicar la flexión. \nEn la tercera semana ya he pasado los 10 segundos en el aire, además estando mucho más recto. Estoy notando que he ganado bastante movilidad en los hombros en comparación con mi estado inicial.  \nEn la cuarta semana he seguido practicando y he empezado a hacer las flexiones apoyado en la pared (que lo hace bastante más fácil). También estoy empezando a notar más control y fuerza en las manos, ya que se utilizan para sostener todo el peso corporal. \nTodavía me queda bastante tiempo y practica para aprender a hacerlo sin pared, pero voy a seguir haciéndolo a menudo para conseguirlo. \nCon este pequeño reto no solo estoy aprendiendo dos ejercicios nuevos, el pino y las flexiones en pino, si no que a parte de fuerza, estoy ganando sobre todo movilidad en los hombros y muñecas y equilibrio en todo el cuerpo."
         },
         {
-            "id": 17,
+            "id": 19,
             "titulo": "Reto de flexibilidad",
             "descripcioncard": "Reto de 31 días de flexibilidad",
             "c": false,
@@ -292,7 +324,7 @@
             "descripcion": "Durante el programa de CAS, he estado realizando varias actividades relacionadas con la calistenia, pero me he dado cuenta de que la flexibilidad es mi limitante en muchos ejercicios.  La flexibilidad es probablemente mi mayor punto débil. Por ello, he decidido hacer un reto de flexibilidad de 31 días (todo el mes de mayo). Mi objetivo es mejorar mi flexibilidad, no solo para poder hacer más ejercicios, si no también para mi salud física. \nSemana 1: Con una semana, ya he notado un cambio en mi flexibilidad. Estoy muy motivado a seguir con la rutina. Estoy dedicando entre 10 y 15 minutos.\nSemana 2: He introducido ejercicios con gomas elásticas.\nSemana 3: He seguido la rutina, la cual esta siendo muy relajante, ya que es la única verdadera pausa que tengo en el día.\nSemana 4: He continuado con la rutina, pero no voy notando mucho progreso.\nSemana 5: Esta semana he acabado la rutina y he notado bastante más progreso que la semana pasada.\nEste reto personal ha sido muy satisfactorio ya que he mejorado bastante en un area que era uno de mis puntos débiles. Trabajar la flexibilidad no ayuda solo a ser más flexibles a la hora de hacer algunos ejercicios, si no que también se traduce en salud a largo plazo. Espero continuar con esta rutina durante el mayor tiempo posible y seguir mejorando."
         },
         {
-            "id": 18,
+            "id": 20,
             "titulo": "Organizando un concierto benéfico",
             "descripcioncard": "Concierto benéfico para Ucrania y La Palma",
             "c": true,
@@ -309,7 +341,7 @@
         },
         
         {
-            "id": 19,
+            "id": 21,
             "titulo": "Llevando ropa a Ucrania",
             "descripcioncard": "Participando en la recogida de ropa para Ucrania",
             "c": false,
@@ -325,7 +357,7 @@
             "descripcion": "Junto a amigos del colegio fui a la recogida de ropa para Ucrania del ayuntamiento de Las Rozas. Tras la gran donación de ropa de todos los vecinos, estuvimos ordenando, clasificando, preparando y empaquetando toda la ropa que habían recibido, ya gran parte de ella, estaba un muy malas condiciones o eran inservibles. \nEl ambiente era muy agradable y tranquilo y la experiencia fue muy satisfactoria. Este evento ha sido una forma de salir de la rutina normal y hacer algo distinto, además haciendo algo para ayudar a otras personas, que en este momento lo están pasando muy mal ya que han perdido todo. Me parece muy importante hacer de vez en cuando alguna actividad que rompa tu día a día y que sea con un fin solidario, ayudando a otras personas que ni conoces, sin esperar nada a cambio. \nMe hubiese gustado haber ido más días, pero el día que fui, ya acabamos todo, por lo que fue el último."
         },
         {
-            "id": 20,
+            "id": 22,
             "titulo": "Reto Jóvenes Emprendedores",
             "descripcioncard": "Participando en el reto jóvenes emprendedores de La Caixa",
             "c": true,
@@ -342,7 +374,7 @@
             "descripcion": "Junto a mis compañeros y amigos Pablo Luque, Alex Yu y Gonzalo Ramírez, nos inscribimos en el Reto Emprende de la Caixa, donde ya habíamos participado otros años, pero no habíamos conseguido ganar. Desarrollamos en equipo el proyecto Espuma Solidaria, que consistía la venta de jabones reciclados para con los beneficios obtenidos, llevar más jabones a regiones del mundo donde no tienen un acceso a jabones o distintos recursos para una higiene digna. Nos dimos cuenta de que una gran cantidad de personas en zonas poco desarrolladas sufrían enfermedades como la diarrea a causa de esta falta de higiene. Desarrollamos toda la propuesta del proyecto, contactamos con posibles fabricantes de jabones artesanales y creamos un video y pagina web enseñando al mundo nuestra idea. \nPero al final no nos eligieron. Sin embargo, ha sido una actividad muy satisfactoria y enriquecedora, donde hemos aprendido a trabajar en equipo, ha desarrollar un proyecto completo y muchas mas cosas. \nEspero que al año que viene podamos volver a participar con una idea nueva y por fín ser elegidos."
         },
         {
-            "id": 21,
+            "id": 23,
             "titulo": "Concurso de primavera de Matemáticas",
             "descripcioncard": "Participando en el concurso de primavera de Matemáticas",
             "c": true,
@@ -357,7 +389,7 @@
             "descripcion": "El miércoles 9 de febrero de 2022 participé desde el colegio en el XXV Concurso de Primavera de Matemáticas. La primera fase, en la que yo participé, contaba con una serie de problemas matemáticos de gran dificultad en un formato tipo test. Mi objetivo era probar una experiencia nueva y ver si llegaba a clasificarme. Aunque no me clasifiqué por un punto. Igualmente, fue una experiencia nueva y satisfactoria, al haber estado muy cerca de clasificarme en una prueba matemática difícil. También ha sido una forma de salir de la rutina diaria y de la zona de comfort. "
         },
         {
-            "id": 22,
+            "id": 24,
             "titulo": "Creando un grupo de música",
             "descripcioncard": "Creando el grupo Primitive Revelation",
             "c": true,
@@ -372,7 +404,7 @@
             "descripcioncorta": "Tras empezar el reto de aprender a tocar la guitarra en 30 días (octubre 2021, 1ª evaluación), junto a mis compañeros Alex Yu, Javier López, Jaime López, Martín Hernández y Tiana, estudiante de IB de otro colegio, creamos el grupo de música Primitive Revelation.",
             "descripcion": "Tras empezar el reto de aprender a tocar la guitarra en 30 días (octubre 2021, 1ª evaluación), junto a mis compañeros Alex Yu, Javier López, Jaime López, Martín Hernández y Tiana, estudiante de IB de otro colegio, creamos el grupo de música Primitive Revelation. Llevamos más de 6 meses ensayando una vez a la semana, para preparar un concierto benéfico el 7 de mayo. \nFormar un grupo de música es una experiencia inolvidable, muy satisfactoria y de la cual se puede aprender mucho, especialmente para mí ya que llevo menos de un año tocando la guitarra de forma autodidacta. Es una experiencia muy enriquecedora tanto musicalmente, ya que me corrigen y me enseñan, como personalmente, ya que a través de la música, se pueden formar amistades muy fuertes. \nHe descubierto que tocar de forma coordinada en un grupo es mucho más difícil de lo que pensaba, y que se tiene que ensayar durante mucho tiempo para que luego suene bien.\nNuestro plan es seguir ensayando para el concierto solidario del 7 de mayo y futuros eventos."
         },{
-            "id": 23,
+            "id": 25,
             "titulo": "Reto Bring Sally Up",
             "descripcioncard": "Realizando el reto de flexiones Bring Sally Up en una semana.",
             "c": true,
@@ -388,7 +420,7 @@
             "descripcion": "El reto Bring Sally Up consiste en realizar flexiones mientras que suena una canción. Cada vez que la canción dice “Bring Sally Up” tienes que subir, y cada vez que dice “Bring Sally Down” tienes que bajar. El reto en total tiene unas 30 flexiones, que no es muy dificil de conseguir, pero la dificultad esta en el tiempo del ejercicio, 3:24 minutos. Este reto se viralizó hace bastantes años y siempre lo quería haber conseguido. Hace varios meses lo intenté y llegué al minuto 2:30.\nVoy a intentar conseguir este reto en dos semanas, entrenando una vez cada dos días.\nPrimer día (test inicial): he conseguido llegar a 3:14 aunque al minuto 2:40, mi forma era muy mala. Igualmente, el resultado me ha sorprendido muchísimo porque no me esperaba nada parecido, me imaginaba entre 2:00 y 2:30 como mucho. Conseguir este resultado me ha motivado mucho para seguir con este reto y superarlo con una forma perfecta.\nSegundo día: he llegado al minuto 2:34, pero esta vez he parado al ver que la forma era incorrecta, por lo que el resultado es similar al del test inicial. Me esperaba un resultado pero por la fatiga del primer día (antes de ayer) y por hacer ayer una rutina de pecho y brazo bastante intensa.\nTercer día: he llegado al minuto 3:02 con forma perfecta, lo que es una gran mejora, ya solo me quedan 3 flexiones para completar el reto.\nCuarto día: hoy he llegado al minuto 3:24, por lo que he completado el reto!!!!!!! Estoy pensando en intentar llegar al minuto 4:00 (siguiente objetivo (a largo plazo): hacerlo dos veces seguidas (7 minutos)!!) o si no, llegar la minuto 3:24, añadiendo peso con una mochila. Llevaba meses queriendo pasarme este reto, que es mucho más difícil de lo que parece, y conseguirlo es muy satisfactorio.\nQuinto día:  hoy he conseguido llegar al minuto 3:08, por lo que he bajado de tiempo, ya que llevaba varios días sin hacerlo.\nSexto día: hoy he llegado al minuto 3:27, volviendo a superar el reto, y mejorando mi record! \nÚltimo día (test final) (dos días después): tras dos días de descanso, he llegado al minuto 3:32, superando los tres minutos y medio!!! Antes de hacer el reto no me había esperado nada parecido a esto.\nEl objetivo de este reto era finalizar con más compañeros de clase, como Alex Yu y Pablo Luque, pero al final lo hemos tenido que hacer de forma individual.\nHa sido muy satisfactorio conseguir este reto que llevaba meses soñando, y tras realizar el reto, me noto más fuerte. Espero proponerme más retos similares a este para la 3ª Evalución. Le recomiendo a cualquier persona realizar este reto, aunque puede ser bastante dificil para las personas que nunca han hecho ejercicio, pero con el tiempo van a notar un gran cambio en su fuerza y físico."
         },
         {
-            "id": 24,
+            "id": 26,
             "titulo": "Rutina de ejercicio en casa",
             "descripcioncard": "Rutina de ejercicio basada en el programa “From 0 To 100” de 28 días.",
             "c": true,
@@ -405,7 +437,7 @@
             "descripcion": "Llevo un par de meses haciendo muy poco ejercicio debido a la falta de tiempo (una mala organización de tiempo y poca constancia), y he notado una gran perdida de fuerza, es especial en los ejercicios en barras de calistenia. También he notado una disminución de músculo en mi físico, por eso, he decidido realizar este reto, para recuperar la forma física que tenía antes e incluso mejorarla. La rutina que voy a seguir esta basada en la rutina gratuita “From 0 to 100” del entrenador de calistenia Igor Voitenko, aunque voy a ir añadiendo más ejercicios y retos para complementarlo, especialmente de brazo. Los primeros días voy a añadir unos ejercicios variados, y también el comienzo de una rutina de flexiones (la voy a acabar cuando acabe este reto), y el reto de Bring Sally Up.\n\nDía 1: Pecho y abdominales. Ha sido bastante duro e intenso, pero he conseguido acabarlo.\nDía 2: Piernas y abdominales. Ha sido intenso pero más suave que el día anterior. He añadido más ejercicios de piernas y de brazo.\nDía 3: Descanso. He hecho una serie de flexiones y dominadas.\nDía 4: Espalda y abdominales: ha sido intenso pero más suave en comparación con el primer día. He añadido varios ejercicios de espalda más y he hecho varias series de flexiones.\nDía 5: Hombros y abdominales: ha sido bastante duro e intenso, pero me voy notando más fuerte. He añadido un poco de espalda y he empezado una rutina de flexiones ya que he perdido bastante fuerza en este ejercicio.\nDía 6: Cuerpo completo y brazo: los ejercicios de cuerpo no han sido muy duros mientras que los ejercicios de brazo han sido bastante intensos.\nDía 7: Descanso. He hecho el segundo día de la rutina de flexiones\nDía 8: Hombros y espalda: hoy ha sido una rutina dura para la espalda, aunque voy notando poco a poco más fuerza.\nDía 9: Piernas y abdominales: hoy he notado una gran mejora, especialmente en los ejercicios de abdominales. Estoy empezando a notar una mejora de fuerza y resistencia.\nDía 10: Descanso.\nDía 11: Espalda y hombros: me noto más fuerte, es especialmente la espalda. Ya llevo un 40% del reto!!\nDía 12: Cuerpo entero: cada vez las rutinas son más fáciles.\nDía 13: Abdominales: voy notando una gran mejora en la forma y resistencia.\nDía 14: Piernas y abdominales: cada vez me noto con más fuerza, especialmente la rutina de abdominales. Creo que voy a subir la intensidad.\nDía 15: Brazos, espalda y abdominales: la rutina ha sido no muy intensa, porque se me ha olvidado que tenía que realizar la rutina dos veces seguidas.\nDía 16: Abdominales y hombros: la rutina de abdominales ha sido muy sencilla, aunque la de hombros ha sido un poco más dura.\nDía 17: Descanso.\nDía 18: Cuerpo entero: La rutina ha sido demasiado suave. Hoy he hecho el primer día del reto de Bring Sally Up, que ha sido bastante intenso pero corto (3:14 minutos).\nDía 19: Pecho, espalda y abdominales: la rutina de pecho ha sido muy dura, y además tenía los músculos cansados del día anterior. Los ejercicios de espalda no han sido muy duros, pero los de abdominales han sido especialmente intensos.\nDía 20: Descanso: Hoy he hecho el segundo día del reto de Bring Sally Up (2:34 con forma correcta).\nDía 21: Brazo y piernas (x2): hoy ha sido el día más duro con diferencia. He hecho la rutina de brazo y pierna, que son bastante duras, pero además dos veces.\nDía 22: Cuerpo entero y abdominales: primero he hecho el tercer día de reto Bring Sally Up, con un récord personal (3:00), a solo tres flexiones de acabarlo. Luego he hecho la rutina de cuerpo entero que no ha sido muy intensa, y finalmente abdominales, que ha sido un poco más intensa de lo normal.\nDía 23: Pecho y espalda (x2): hoy la rutina ha sido bastante intensa, sobre todo la segunda ronda de pecho, ya que las flexiones son muy intensas para mí.\nDía 24: Abdominales: la rutina de hoy no ha sido especialmente dura, estoy notando una gran diferencia comparándolo con el principio.\nDía 25: Hombros y piernas (x2): los ejercicios de hombros son muy duros para mí, ya que es una parte en la que todavía tengo que trabajar, además, como tengo muy poca flexibilidad, me cuesta hacer los ejercicios, ya que este tipo de ejercicios de hombro “en el suelo” suelen requerir flexibilidad. También los ejercicios de piernas han sido muy duros para mí, ya que no tengo mucha fuerza en estas.\nDía 26: Descanso: Hoy he hecho el cuarto día del reto Bring Sally Up y por fin lo he conseguido!!!!! Llevaba meses deseándolo. Además, solo quedan dos días para acabar este duro reto.\nDía 27: Piernas y abdominales (x2): Hoy la rutina ha sido bastante intensa, en especial los ejercicios de pierna y algunos de abdominales. Ya solo queda un día!!!\nDía 28: Hombros, espalda y brazos (x2): Hoy por fin he conseguido acabar esta rutina, pero ha sido el día más largo y duro, ha durado como una hora, con una intensidad bastante alta, ya que todos los ejercicios estaban enfocados a la parte superior del cuerpo. Estoy muy orgulloso y satisfecho de haber conseguido este reto, que ha sido mucho más duro de lo que pensaba, pero los resultados han sido mejores de lo que jamás se me habría ocurrido en tan poco tiempo.\n\nCompletar este reto de 28 días ha sido muy duro, pero muy satisfactorio y motivador. Gracias a ello, he recuperado mi forma física e incluso la he mejorado. También he conseguido hacer una cosa que llevaba meses soñando, completar el reto de flexiones Bring Sally Up. Hacer ejercicio te puede aportar una gran cantidad de beneficios aparte de ganar fuerza y musculatura. Lo primero es que te sirve como forma de desconectar del mundo, ya que estas solo tú, contra ti mismo. Además te puedes proponerte retos personajes, como en este caso completar un reto de 28 días y el Bring Sally Up. Hacer ejercicio regularmente te aporta una gran cantidad de beneficios como la disciplina, la constancia y te da muchísima satisfacción a largo plazo y te hace estar orgulloso de ti mismo y de tu propio cuerpo, dándote más confianza en ti mismo y una mayor autoestima. Le recomiendo a cualquier persona intentar completar este reto, no solo por los beneficios físicos, sino sobre todo por los mentales."
         },
         {
-            "id": 25,
+            "id": 27,
             "titulo": "Programando una máquina de Turing",
             "descripcioncard": "Simulador del Juego de la vida de Conway",
             "c": true,
@@ -424,7 +456,7 @@
             "descripcion": "Hace unos días descubrí “El Juego de la vida”, un juego matemático diseñado por el matemático John Horton Conway. Es un juego de cero jugadores, en el cual hay una cuadrícula donde los cuadrados pueden estar vivos o muertos, y el sistema va evolucionando dependiendo de unas reglas muy sencillas, pero se pueden generar patrones muy interesantes.\n Las reglas son:\n - Una célula muerta con exactamente 3 células vecinas vivas 'nace' (es decir, al turno siguiente estará viva).\n - Una célula viva con 2 o 3 células vecinas vivas sigue viva, en otro caso muere (por 'soledad' o 'superpoblación').\nMe pareció un concepto muy interesante y se me ocurrió intentar programarlo yo mismo. Al principio tuve bastantes problemas ya que nunca había programado nada parecido y tenía muchos errores, pero conseguí arreglarlo y que todo funcionase. El resultado me sorprendió bastante ya que funcionaba bastante bien, añadí varias funciones interesantes.\n La idea de poder pasar un modelo matemático a un formato visual en un ordenador a través de código ha sido muy interesante, ha sido un reto personal bastante desafiante, ya que no había hecho nada parecido, y ha sido muy satisfactorio conseguir que funcione todo perfectamente. La habilidad de poder convertir un concepto matemático en un programa de ordenador es muy útil. Le recomiendo a cualquier persona que le interese la programación intentar a programar algo así."
         },
         {
-            "id": 26,
+            "id": 28,
             "titulo": "Reto: Un render al día durante una semana",
             "descripcioncard": "Mejorando mis habilidades de diseño 3D usando Blender.",
             "c": true,
@@ -448,7 +480,7 @@
             "descripcion": "Hace aproximadamente un año aprendí a utilizar Blender, un programa de diseño 3D. Aprendí bastante de modelado 3D y tenía bastante confianza, pero había una cosa que se me daba muy mal, crear materiales, es decir, el aspecto de la superficie del objeto. Por lo que me he propuesto un reto, hacer un render al día durante una semana centrándome en los materiales.\n A lo largo del reto he ido aprendiendo conceptos y técnicas nuevas y poco a poco he ido ganando más confianza. A cada render le he dedicado más o menos media hora, excepto al último que en realidad he tardado dos días, dedicando varias horas diarias, ya que decidí centrarme también en el modelado 3D y en los pequeños detalles. Cada diseño tiene su punto original y creativo y estoy bastante contento con los resultados. Tras acabar el reto, he conseguido coger confianza en este área tan importante del diseño 3D que tanto me costaba, he aprendido nuevos conceptos y he pasado un buen rato desarrollando mi creatividad. Además el formato de reto personal lo ha hecho todo mucho más interesante y motivador.\n Le recomiendo a cualquier persona que aprenda un poco de diseño 3D ya que aunque la curva de aprendizaje sea al principio muy empinada, es una forma muy interesante de desarrollar la creatividad y también puede ser muy útil para el futuro, por ejemplo puedes tener una idea de un concepto tridimensional en tu mente y al pasarlo a un ordenador, puedes transmitir esa información a otra persona muy fácilmente."
         },
         {
-            "id": 27,
+            "id": 29,
             "titulo": "Operación Kilo",
             "descripcioncard": "Organizando la Operación Kilo en el colegio.",
             "c": false,
@@ -465,7 +497,7 @@
             "descripcion": "Hoy en mi colegio he participado en la organización de la Operación Kilo. El colegio realiza esta recogida todos los años y por primera vez he podido participar en la organización del proyecto. He ayudado en la recogida de los alimentos por todas las clases y luego en la organización y clasificación de todos los alimentos y productos recogidos. Ha sido una actividad muy satisfactoria ya que cada persona del colegio pone su granito de solidaridad con resultados increíbles. A la hora de clasificar y ordenar los alimentos y productos de limpieza, me ha sorprendido la gran cantidad recogida para personas que lo necesitan. Le recomiendo este tipo de actividades solidarias a cualquier persona, por la satisfacción personal que aporta, al igual que valores como el trabajo en equipo. También me habría gustado haber realizado la operación kilo en otros lugares."
         },
         {
-            "id": 28,
+            "id": 30,
             "titulo": "Duendes de la Navidad",
             "descripcioncard": "Reparando juguetes para Navidad",
             "c": false,
@@ -481,7 +513,7 @@
             "descripcion": "Hoy junto a mi amigo Alex Yu hemos ido antes de Navidad al centro de la juventud de Las Rozas a reparar juguetes procedentes de la campaña de recogida, para luego darlos en Navidad. Hemos sido unas 7 personas clasificando, ordenando y arreglando una gran cantidad de juguetes, durante una tarde. Al principio, había una gran cantidad de juguetes totalmente desordenados, incompletos y rotos, por lo que tuvimos que ir ordenando las distintas piezas de los juguetes y luego clasificándolos y viendo si estaban en un estado aceptable para ser regalados en Navidad. Nos habría gustado mucho haber podido ir durante varios días, pero cuando hablamos con la organizadora, nos dijo que ya era el último día.\n Ha sido una actividad muy satisfactoria, ya que gracias a este pequeño evento solidario, una gran cantidad de niños en malas condiciones económicas van a tener una gran ilusión en Navidad, pero también es una forma de conocer a personas nuevas, probar cosas que nunca habías hecho y te aporta valores como la solidaridad y el trabajo en equipo."
         },
         {
-            "id": 29,
+            "id": 31,
             "titulo": "Socios por un día",
             "descripcioncard": "Evento online sobre informática y ciberseguridad.",
             "c": true,
@@ -497,7 +529,7 @@
             "descripcion": "El día Martes 26 de Octubre de 2021 me apunté al programa Socios por un día y estuve junto a un especialista en ciberseguridad hablando sobre el campo informática y tecnología. Con unos 12 años me interesé por el mundo de la programación y es una de mis ideas principales para realizar una carrera relacionada con ello. En el evento también estaba Teresa Indira de 1º IB E y dos chicos más. Primero cada uno de nosotros hicimos una presentación hablando sobre nosotros y nuestros intereses. Estuvimos hablando de los distintos campos de la informática y sobre las oportunidades de trabajo. Luego, nos estuvo hablando sobre la ciberseguridad y nos propuso un par de problemas para resolver. \nCon este evento, he resuelto y aclarado algunas de las dudas y preguntas que tenía. \nMe pareció una charla muy interesante y especialmente útil y creo que es muy importante hablar sobre oportunidades de trabajo con personas que se dedican a lo que a tí te gusta, que te cuenten su experiencia, sus opiniones y las recomendaciones que solamente te puede decir una persona que se dedique a ello. \nYo le recomiendo a cualquier persona que se apunte al evento Socios por un día, ya que me parece esencial informarse sobre los campos que quieres estudiar, además hablando con un profesional en el tema, ya que actualmente la mayoría de personas de mi edad tiene muchas dudas sobre las oportunidades que hay."
         },
         {
-            "id": 30,
+            "id": 32,
             "titulo": "Falinkuta",
             "descripcioncard": "Apoyando al colegio Falinkuta en Gambia.",
             "c": true,
@@ -513,7 +545,7 @@
             "descripcion": "Todos los años el Colegio Logos realiza una carrera solidaria para recaudar fondos para un colegio que han construido en Gambia. Aparte de aportar mi granito de arena en la recaudación de dinero, he decidido trabajar en la organización del evento junto a mi clase. Primero realizamos una serie de charlas a todo el colegio, desde primero de primaria hasta segundo de bachillerato. Yo presenté el proyecto a varias clases de primaria, desde segundo hasta quinto, a varias de la ESO y a una de segundo de Bachillerato. Posteriormente, los días anteriores a la carrera, estuvimos preparando el circuito con cintas y carteles. El 30 de noviembre fue el día de la carrera solidaria y estuvimos desde las ocho y media hasta la hora de comer organizando todo.\n El resultado y la organización del día de la carrera fue mucho mejor de lo que nos esperábamos. Ha sido una actividad muy satisfactoria personalmente, desde dar charlas informativas a una gran variedad de cursos hasta la organización y el excelente desarrollo de la carrera. En especial me ha gustado mucho dar charlas a los niños pequeños ya que nunca había tenido esa experiencia. Para nosotros fue un reto el hecho de arrancar, pero luego todo se volvió muy fluido. El recuento de la recaudación fue una experiencia nueva y sorprendente, por la gran cantidad de fondos que habíamos recaudado.\n Le recomiendo a cualquier persona esta actividad ya que te enseña a organizar y coordinar un gran evento, que es una habilidad personal muy importante y luego es muy satisfactorio contribuir no solo en los fondos sino en la organización de un proyecto solidario."
         },
         {
-            "id": 31,
+            "id": 33,
             "titulo": "Divulgación científica.",
             "descripcioncard": "Creando una cuenta en Instagram sobre divulgación científica.",
             "c": true,
@@ -533,7 +565,7 @@
             "descripcion": "Junto a Alex Yu, Pablo Luque y Darío Llopart hemos creado una cuenta sobre divulgación científica en Instagram. \nLa cultura científica en el mundo es muy baja y especialmente en España, por lo que hemos decidido crear la cuenta en español, aunque tengamos una menor audiencia. \nPublicamos dos veces por semana datos curiosos, paradojas, y conceptos que te explotan la cabeza explicados de forma sencilla para todo el público. Nuestro objetivo es explicar conceptos científicos de una forma breve, creativa y entretenida, generando un interés al lector y motivándolos a aprender más sobre el tema y a interesarse por la ciencia. \nEste proyecto a largo plazo para CAS va a ser un gran reto para nosotros, ya que tenemos que publicar rutinariamente pequeños bloques de información que sean interesantes para el lector, en un formato propio que sea entretenido y ameno. Buscar temas curiosos y atractivos, y a la vez explicarlo de forma sencilla y amena es una tarea mucho más difícil de lo que pensábamos. \nCon este proyecto nos hemos dado cuenta de la importancia que tiene la divulgación en el mundo, pero también lo difícil que es hacerlo, ya que es necesaria una gran creatividad y mucho tiempo para aprender e informarse sobre el tema, y luego poder compactar una gran cantidad de información en una pequeña publicación. \nAdemás, al empezar a investigar hemos aprendido sobre una gran cantidad de temas muy interesantes que antes no conocíamos. \nCuenta: @atomic_facts_ \nLink: \nhttps://www.instagram.com/atomic_facts_/"
         },
         {
-            "id": 32,
+            "id": 34,
             "titulo": "Plantando 5000 árboles",
             "descripcioncard": "Gran plantación de árboles 2021",
             "c": false,
@@ -553,7 +585,7 @@
             "descripcion": "El pasado sábado 23 de octubre, fuí a la gran plantación de árboles organizada por el ayuntamiento de Las Rozas junto a Alex Yu, Rodrigo Pérez, Álvaro García y Saul López. Nosotros plantamos 11 árboles de distintas especies y en total se plantaron más de 5.000 árboles. Nosotros plantamos encinas, pinos, pistachos, fresnos, quejigos, majuelos, enebros, madroños, etc. Todas especies autóctonas de la zona. \nHa sido una jornada muy satisfactoria, ya que es una forma de contrarrestar todo el daño que hacemos al medioambiente, y realizar un pequeño esfuerzo para el planeta y al fin y al cabo, para todos nosotros. También es una actividad al aire libre, una forma de desconectar del mundo, del estrés y realizar una actividad nueva para ayudar al planeta. \nSeguramente luchar contra el cambio climático sea el mayor reto al que se enfrenta la humanidad, ya que en realidad es una lucha contra nosotros mismos, contra el sistema de consumo extremo que tenemos, un sistema insostenible. \nEstas pequeñas acciones y sobre todo un cambio de mentalidad es lo que necesitamos para solucionarlo."
         },
         {
-            "id": 33,
+            "id": 35,
             "titulo": "Ruta en bicicleta",
             "descripcioncard": "Hoy he recorrido 32,5 kilómetros en bicicleta.",
             "c": false,
@@ -576,7 +608,7 @@
             "descripcion": "Desde muy pequeño me ha encantado montar en bici, pero por falta de tiempo, llevaba varios meses sin hacerlo. Por lo que, junto a mi compañero Alex Yu, nos hemos propuesto hacer una ruta en bici por Las Rozas de Madrid, para disfrutar del ejercicio, la naturaleza y desconectar totalmente de los estudios. \nHemos recorrido en total unos 32,5 kilómetros aproximadamente en dos horas y media, recorriendo gran parte de las Rozas y descubriendo nuevos caminos y zonas que no conocíamos. \nMe ha parecido una actividad muy satisfactoria al estar haciendo ejercicio al aire libre, rodeado de naturaleza, y respirando aire puro, cosa que actualmente con las mascarillas no podemos hacer mucho. También ha sido una forma de desconectar de este comienzo del Bachillerato Internacional, el cual puede generar estrés y preocupaciones, debido a la gran cantidad de trabajo por delante. \nYo creo que la salud física es una parte muy pequeña de los beneficios que puede otorgar el hábito de hacer ejercicio. La actividad física regular te puede servir para desconectar de todos los problemas y te ayuda a generar disciplina y constancia, lo cual es una de las habilidades más importantes y que más beneficios te otorga. También, hacer ejercicio te genera una gran satisfacción a largo plazo, ya que todo el esfuerzo que haces lo haces por tu salud. También esta disciplina te puede generar más confianza en ti mismo y una mayor autoestima. Además la combinación entre estudios y actividad física es la forma óptima de vivir ya que los beneficios se retroalimentan entre sí. \nLe recomiendo esta actividad a cualquier persona para que disfruten de dar una vuelta en bici con amigos, que desconecten, mantengan un estilo de vida saludable y pasen un buen rato, y espero que para la próxima seamos más personas."
         },
         {
-            "id": 34,
+            "id": 36,
             "titulo": "Aprendiendo a hacer el Muscle Up perfecto",
             "descripcioncard": "Aprendiendo a hacer el Muscle Up sin impulso en 30 días.",
             "c": false,
@@ -593,7 +625,7 @@
             "descripcion": "Durante 30 días voy a ir regularmente (mi objetivo es ir una vez cada dos días) a hacer ejercicio a unas barras de calistenia para ver el progreso que puedo hacer. Me enfocaré en un ejercicio llamado Muscle Up en el que estás en una barra colgando y tienes que levantarte con los brazos hasta estar por encima de la barra con los brazos estirados. A finales de verano, podía hacer 5 Muscle Ups seguidos con una forma incorrecta, en el momento de dar el impulso hacía arriba, subía las rodillas para tener más momento y subir con más facilidad. Mi objetivo es hacerlo con las piernas totalmente estiradas y sin nada de balanceo. \nPunto inicial:  \nTras dos semanas sin hacer ejercicio (por falta de tiempo y organización), he perdido bastante fuerza y fluidez en el movimiento. Consigo hacer 3 Muscle Ups con mala forma. \nSemana 1: \nDurante esta primera semana, he ido 4 veces a las barras. El primer día fui con Gonzalo Ramírez y llegué a hacer 3 Muscle Ups pero con mala forma. Los dos días siguientes, los resultados fueron parecidos o incluso un poco peores, pero el último día, aunque volviese a hacer solo 3 Muscle Ups seguidos, me sentía que estaba ganando fuerza y además la técnica era ligeramente mejor. \nSemana 2: \nEsta semana he notado un gran progreso, el primer día, he llegado a hacer 3 Muscle Ups seguidos, pero cada vez usando menos impulso con las piernas, es decir, con una mejor técnica. El segundo día fue la primera vez que me salió con las piernas estiradas (pero balanceándome).  Al tercer día conseguí llegar a hacer tres seguidos con las piernas rectas, y además este fue el primer día que el dolor en las manos no me limitaba el entrenamiento. \nSemana 3: \nEn esta semana he notado un cambio brusco. El primer día conseguí hacerlo 3 veces seguidas con balanceo. El segundo día me salió cuatro veces seguidas y empecé a practicarlo sin impulso. El tercer día me enfoqué en otros ejercicios de fuerza. \nSemana 4: \nEsta semana no he tenido mucho tiempo para practicar, pero he progresado bastante. El primer día ya me salió sin balanceo, pero no sincronizado, usando primero un brazo y luego el otro. El segundo día me enfoque en ejercicios de fuerza y variados. \nSemana 5: \nEsta semana ha sido muy variada, el primer día me sentí mucho menos fuerte ya que estuve varios días sin poder ir a las barras. El segundo día ya recuperé la fuerza y estuve haciendo ejercicios de fuerza. Al tercer día ya me salió perfecto. :) \nConclusión: \nHacer calistenia (hacer ejercicio con tu peso corporal) te puede aportar una gran cantidad de beneficios aparte de hacer ejercicio y ganar fuerza y musculatura. Lo primero es que te sirve como forma de desconectar del mundo, ya que estás solo tú, contra ti mismo. También, donde yo hago ejercicio, estás al aire libre rodeado de naturaleza y respirando aire puro, cosa que actualmente con las mascarillas no podemos disfrutar. Con la calistenia puedes proponerte retos personajes, como aprender hacer un nuevo movimiento, como por ejemplo el Muscle Up. Hacer ejercicio regularmente te aporta una gran cantidad de beneficios como la disciplina, la constancia y te da muchísima satisfacción a largo plazo y te hace estar orgulloso de ti mismo y de tu propio cuerpo, ganando más confianza en ti mismo y una mayor autoestima. También es una forma para conocer gente de cualquier edad. Le recomiendo a cualquier persona empezar a hacer ejercicio y en especial la calistenia ya que lo he disfrutado mucho. Espero seguir haciendo más actividades relacionadas con la calistenia y aprender pronto algún ejercicio más."
         },
         {
-            "id": 35,
+            "id": 37,
             "titulo": "Aprendiendo a tocar la guitarra",
             "descripcioncard": "Aprendiendo a tocar la guitarra en 30 días.",
             "c": true,
@@ -610,7 +642,7 @@
             "descripcion": "En Agosto, me compré una guitarra porque tenía muchas ganas de aprender a tocar un instrumento musical. Llevo un mes aprendiendo a tocar la guitarra pero no le he dedicado mucho tiempo. Me he comprometido a practicar todos los días durante un mes para ver todo lo que puedo aprender y mejorar en estos 30 días. \nSemana 1: \nEsta semana he progresado bastante con la guitarra y he empezado el hábito de practicar todos los días. He estado practicando sobre todo los acordes (los más básicos), y también un poco el ritmo con la púa. \nCanciones: \nBella Ciao \nFast Car - Tracy Chapman \nBack in Black - AC/DC (solo una parte) \nHighway to Hell - AC/DC (solo una parte) \nPerfect - Ed Sheeran \nSemana 2: \nEsta semana he estado probando cosas nuevas, un poco de fingerstyle (demasiado avanzado para mi nivel) y también he estado practicando el acorde de Fa, el cual suele ser el más difícil para los principiantes y todavía no me sale. Esta semana he notado un poco de bloqueo en general. \nCanciones: \n(Todas las anteriores) \nRiver Flows in You - Yiruma \nSemana 3: \nEsta semana he practicado las escalas y he comenzado un curso online gratuito para aprender en el orden correcto. He realizado una serie de sus clases. \nCanciones: \n(Todas las anteriores) \nBack in Black - AC/DC (otra parte) \nHouse of the rising sun - The Animals \nSemana 4: \nEsta semana he notado un gran progreso, he cogido más agilidad y velocidad en los dedos. También he aprendido unos cuantos acordes suspendidos y un poco de teoría musical. \nCanciones: \n(Todas las anteriores) \nHallelujah - Leonard Cohen \nCloser - The Chainsmokers \nSemana 5: \n(Todas las anteriores) \nEstos últimos días he estado practicando los acordes con cejilla, aunque todavía no me salen. \nCanciones: \nSeven Nation Army (solo) - The White Stripes \nTal Como Eres - El Canto del Loco \nLo más importante de estos 30 días ha sido crear el hábito de practicar regularmente, he intentaré continuar con este hábito durante mucho tiempo. He disfrutado mucho durante este mes, viendo como poco a poco iba progresando y aprendiendo nuevos conceptos y canciones. Tocar un instrumento ha sido una cosa que siempre he querido hacer pero nunca me he propuesto realmente hasta este verano. También mejora la creatividad y es una forma de desconectar del mundo y de todos los problemas, concentrándote solo en la guitarra. Después de este poco tiempo tocando la guitarra, me he dado cuenta de que ha sido una decisión muy acertada y la cual recomiendo a cualquier persona."
         },
         {
-            "id": 36,
+            "id": 38,
             "titulo": "Programando mi portfolio para CAS",
             "descripcioncard": "Diseñando y programando mi portfolio para CAS.",
             "c": true,
