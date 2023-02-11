@@ -41,11 +41,11 @@
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1Up_hkaDcqeJ4yTMhmFWD8HdQgP-KXw7_", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1Up_hkaDcqeJ4yTMhmFWD8HdQgP-KXw7_", "square": true,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1XjJHsM3L8TN79n9C4QBcrYb_wc3-HeRQ", "square": false},
-                {"link":"https://drive.google.com/uc?id=1U1miiDCzGU4oNyq7Hum5PU15-SIlJw5Z", "square": false},
-                {"link":"https://drive.google.com/uc?id=1gUkGD0Ov5KWAmk4VLbXYjlLH0Qvn-bxj", "square": false}
+                {"link":"https://drive.google.com/uc?id=1XjJHsM3L8TN79n9C4QBcrYb_wc3-HeRQ", "square": true},
+                {"link":"https://drive.google.com/uc?id=1U1miiDCzGU4oNyq7Hum5PU15-SIlJw5Z", "square": true},
+                {"link":"https://drive.google.com/uc?id=1gUkGD0Ov5KWAmk4VLbXYjlLH0Qvn-bxj", "square": true}
             ],
             "cardimage": "https://drive.google.com/uc?id=1Up_hkaDcqeJ4yTMhmFWD8HdQgP-KXw7_",
             "descripcioncorta": "Hace unos días, descubrí junto a mis compañeros de clase y amigos Alex, Javier, Alvaro y Saúl la inteligencia artificial Midjourney, capaz de transformar una frase en una imagen.",
