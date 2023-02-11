@@ -4,17 +4,17 @@
     "items": [
         {
             "id": 0,
-            "titulo": "Diseño y programación de una página web de un restaurante",
+            "titulo": "Diseño y programación de una página web de un restaurante (EN PROCESO)",
             "descripcioncard": "Próximamente",
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=11UsrZCUX5Kk86_-UT4r9Vdm---RjVTqz", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1cKZ-BOwgm_7mKMYox2kWqGQ-jUcEfFNF", "square": false},
-                {"link":"https://drive.google.com/uc?id=1cJhmJFCG2Y88hBi6yLmMMc2FAEblAApW", "square": false}
+                {"link":"https://drive.google.com/uc?id=12LwSlqkAu4zYFjT7tTj3DM1rgiLcEMiH", "square": false},
+                {"link":"https://drive.google.com/uc?id=1A6HsJKXDDej4sO0WNmsSpFgong1YcQd7", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF",
+            "cardimage": "https://drive.google.com/uc?id=11UsrZCUX5Kk86_-UT4r9Vdm---RjVTqz",
             "descripcioncorta": "Próximamente",
             "descripcion": "Próximamente"
         },
@@ -41,14 +41,15 @@
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1Up_hkaDcqeJ4yTMhmFWD8HdQgP-KXw7_", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=1cKZ-BOwgm_7mKMYox2kWqGQ-jUcEfFNF", "square": false},
-                {"link":"https://drive.google.com/uc?id=1cJhmJFCG2Y88hBi6yLmMMc2FAEblAApW", "square": false}
+                {"link":"https://drive.google.com/uc?id=1XjJHsM3L8TN79n9C4QBcrYb_wc3-HeRQ", "square": false},
+                {"link":"https://drive.google.com/uc?id=1U1miiDCzGU4oNyq7Hum5PU15-SIlJw5Z", "square": false},
+                {"link":"https://drive.google.com/uc?id=1gUkGD0Ov5KWAmk4VLbXYjlLH0Qvn-bxj", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=1cJWUity2uSqUCHax9sMcFdB32E6mVsWF",
-            "descripcioncorta": "Próximamente",
-            "descripcion": "Próximamente"
+            "cardimage": "https://drive.google.com/uc?id=1Up_hkaDcqeJ4yTMhmFWD8HdQgP-KXw7_",
+            "descripcioncorta": "Hace unos días, descubrí junto a mis compañeros de clase y amigos Alex, Javier, Alvaro y Saúl la inteligencia artificial Midjourney, capaz de transformar una frase en una imagen.",
+            "descripcion": "Hace unos días, descubrí junto a mis compañeros de clase y amigos Alex, Javier, Alvaro y Saúl la inteligencia artificial Midjourney, capaz de transformar una frase en una imagen. Por ello, se nos ocurrió que podríamos aprender a utilizar esta herramienta para crear arte digital y mostrar el potencial de la inteligencia artificial en el arte. Para hacer la colección de arte más especial y diferente, se nos ocurrió pensar una temática especial, que genere un reto a la inteligencia artificial. Por ello, se nos ocurrió hacer una serie de pokemons con distintas temáticas. \nMe ha parecido increible y sorprendente que con una frase un programa pueda generar en pocos segundos una imagen que llevaría horas a una persona especializada, puediendo generar cosas muy creativas y únicas. \nRecomiendo a cualquier persona que pruebe y trastee con esta herramienta gratuita."
         },{
             "id": 3,
             "titulo": "Creando un equipo de Voleyball",
@@ -184,7 +185,7 @@
         },
         {
             "id": 11,
-            "titulo": "Aprendiendo a hacer el Front Lever (EN PROCESO)",
+            "titulo": "Aprendiendo a hacer el Front Lever (Parte 1)",
             "descripcioncard": "Aprendiendo a hacer uno de los movimientos de calistenia más impresionantes",
             "c": false,
             "a": true,
@@ -196,7 +197,7 @@
             ],
             "cardimage": "https://drive.google.com/uc?id=1eWgRArAAGWzisY0zu4OMSi4tvlpVlpKX",
             "descripcioncorta": "Llevaba meses deseando aprender una habilidad, el Front Lever. Este ejercicio, consiste en sujetarse en una barra horizontal con los brazos totalmente estirados y con el cuerpo totalmente recto horizontalmente, mirando hacia arriba.",
-            "descripcion": "Llevaba meses deseando aprender una habilidad, el Front Lever. Este ejercicio, consiste en sujetarse en una barra horizontal con los brazos totalmente estirados y con el cuerpo totalmente recto horizontalmente, mirando hacia arriba. Este ejercicio requiere bastante fuerza y desde principios de agosto he estado haciendo una rutina de unos 40 minutos cada dos días para practicarlo. Al principio podía aguantarlo pero con las piernas totalmente encogidas. Con el paso del tiempo, mientras que voy ganando fuerza, puedo ir estirando las piernas, con el objetivo de estirarlas completamente.\nTras un mes entrenándolo, he notado una mejora en mi fuerza y puedo mantenerlo con una pierna estirada completamente y otra encogida, o formando un ángulo de 90º con las piernas. Calculo que lo conseguiré en un mes más.\nEN PROCESO"
+            "descripcion": "Llevaba meses deseando aprender una habilidad, el Front Lever. Este ejercicio, consiste en sujetarse en una barra horizontal con los brazos totalmente estirados y con el cuerpo totalmente recto horizontalmente, mirando hacia arriba. Este ejercicio requiere bastante fuerza y desde principios de agosto he estado haciendo una rutina de unos 40 minutos cada dos días para practicarlo. Al principio podía aguantarlo pero con las piernas totalmente encogidas. Con el paso del tiempo, mientras que voy ganando fuerza, puedo ir estirando las piernas, con el objetivo de estirarlas completamente.\nTras un mes entrenándolo, he notado una mejora en mi fuerza y puedo mantenerlo con una pierna estirada completamente y otra encogida, o formando un ángulo de 90º con las piernas. \n Sin embargo, ahora, tras un segundo mes entrenándolo, siento un poco de estancamiento en el progreso del ejercicio. Creo que ahora debo centrarme en mejorar los básicos de tirón (en especial las dominadas), incluso lastrarlos con peso adicional para ganar fuerza en estos movimientos. Espero dentro de unos 6 meses volver a entrenar este movimiento y conseguirlo por completo."
         },
         {
             "id": 12,
