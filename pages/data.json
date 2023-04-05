@@ -53,10 +53,10 @@
         {
             "id": 3,
             "titulo": "Creando arte con IA",
-            "descripcioncard": "Inspirando a otras personas con arte digital creado por IA",
+            "descripcioncard": "Creando arte digital utilizando Midjourney V4",
             "c": true,
             "a": false,
-            "s": true,
+            "s": false,
             "blogImage": "https://drive.google.com/uc?id=1Up_hkaDcqeJ4yTMhmFWD8HdQgP-KXw7_", "square": true,
             "images": [
                 {"link":"https://drive.google.com/uc?id=1XjJHsM3L8TN79n9C4QBcrYb_wc3-HeRQ", "square": true},
