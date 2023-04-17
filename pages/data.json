@@ -4,18 +4,18 @@
     "items": [
         {
             "id": 0,
-            "titulo": "Juego de fotos (Próximamente)",
-            "descripcioncard": "Próximamente",
+            "titulo": "Juego de fotos",
+            "descripcioncard": "Realizando un juego de adivinar personas en clase",
             "c": true,
             "a": false,
             "s": true,
-            "blogImage": "https://drive.google.com/uc?id=11UsrZCUX5Kk86_-UT4r9Vdm---RjVTqz", "square": false,
+            "blogImage": "https://drive.google.com/uc?id=1TE52I0anYCKXYZqRykWN_jgh_eyP5WpZ", "square": false,
             "images": [
-                {"link":"https://drive.google.com/uc?id=12LwSlqkAu4zYFjT7tTj3DM1rgiLcEMiH", "square": false},
-                {"link":"https://drive.google.com/uc?id=1A6HsJKXDDej4sO0WNmsSpFgong1YcQd7", "square": false}
+                {"link":"https://drive.google.com/uc?id=1St1EBkTXGWkWCo3ZrbvFvyB3HJrGXWYt", "square": false},
+                {"link":"https://drive.google.com/uc?id=1TE52I0anYCKXYZqRykWN_jgh_eyP5WpZ", "square": false}
             ],
-            "cardimage": "https://drive.google.com/uc?id=11UsrZCUX5Kk86_-UT4r9Vdm---RjVTqz",
-            "descripcioncorta": "Próximamente",
+            "cardimage": "https://drive.google.com/uc?id=1TE52I0anYCKXYZqRykWN_jgh_eyP5WpZ",
+            "descripcioncorta": "Realizando un juego de adivinar personas en clase",
             "descripcion": "El otro día, justo a mis compañeros de clase y amigos Alvaro García y Alex Yu creamos un juego de clase donde se mostraban una serie de fotos de nosotros mismos de pequeños y había que adivinar quien era. Para ello, creamos un Kahoot, ya que nos permitía proyectar una imagen en la pizarra digital y poner cuatro opciones de personas diferentes. La mayor dificultad de esta actividad fue conseguir que todos nuestros compañeros nos compartiesen una imagen suya en un día. No obstante, la actividad fue un éxito, fue un juego muy divertido y entretenido."
         },
         
